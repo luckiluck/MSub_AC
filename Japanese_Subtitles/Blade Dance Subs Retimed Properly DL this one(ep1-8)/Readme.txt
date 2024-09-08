@@ -1,0 +1,1 @@
+I just noticed i forgot to save the correct subtitle timing on some ep,I should double check next time I upload
