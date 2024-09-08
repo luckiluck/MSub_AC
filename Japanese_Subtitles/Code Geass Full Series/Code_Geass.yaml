@@ -1,0 +1,7 @@
+msubtitles:
+  - source: https://raw.githubusercontent.com/luckiluck/MSub_AC/main/Japanese_Subtitles/Code%20Geass%20Full%20Series/
+    subtitles:
+      - season: 1
+        items:
+          - path: Code%20Geass%20Season%201/Code%20Geass%20-%2001.srt
+            episode: 1
