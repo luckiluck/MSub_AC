@@ -1,6 +1,6 @@
 import os
 import re
-from glob import glob
+from glob import glob, escape
 
 def ass_to_srt(input_file, output_file):
     with open(input_file, 'r', encoding='utf-8') as f:
@@ -42,7 +42,8 @@ def main():
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
-    ass_files = glob(os.path.join(input_dir, '*.ass'))
+    input_dir = input_dir.replace('\\', '\\\\')
+    ass_files = glob(escape(input_dir) + '\\*.ass', recursive=True)
 
     for ass_file in ass_files:
         base_name = os.path.basename(ass_file)
