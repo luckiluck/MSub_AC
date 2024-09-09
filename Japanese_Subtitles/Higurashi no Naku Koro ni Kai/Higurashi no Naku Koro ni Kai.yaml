@@ -1,0 +1,53 @@
+msubtitles:
+- source: https://raw.githubusercontent.com/luckiluck/MSub_AC/main/Japanese_Subtitles/Higurashi%20no%20Naku%20Koro%20ni%20Kai/
+  subtitles:
+  - season: 1699
+    items:
+    - path: '%28Hi10%29_Higurashi_no_Naku_Koro_ni_Kai_-_01_%28DVD_480p%29.ja.srt'
+      episode: 1
+    - path: '%28Hi10%29_Higurashi_no_Naku_Koro_ni_Kai_-_02_%28DVD_480p%29.ja.srt'
+      episode: 2
+    - path: '%28Hi10%29_Higurashi_no_Naku_Koro_ni_Kai_-_03_%28DVD_480p%29.ja.srt'
+      episode: 3
+    - path: '%28Hi10%29_Higurashi_no_Naku_Koro_ni_Kai_-_04_%28DVD_480p%29.ja.srt'
+      episode: 4
+    - path: '%28Hi10%29_Higurashi_no_Naku_Koro_ni_Kai_-_05_%28DVD_480p%29.ja.srt'
+      episode: 5
+    - path: '%28Hi10%29_Higurashi_no_Naku_Koro_ni_Kai_-_06_%28DVD_480p%29.ja.srt'
+      episode: 6
+    - path: '%28Hi10%29_Higurashi_no_Naku_Koro_ni_Kai_-_07_%28DVD_480p%29.ja.srt'
+      episode: 7
+    - path: '%28Hi10%29_Higurashi_no_Naku_Koro_ni_Kai_-_08_%28DVD_480p%29.ja.srt'
+      episode: 8
+    - path: '%28Hi10%29_Higurashi_no_Naku_Koro_ni_Kai_-_09_%28DVD_480p%29.ja.srt'
+      episode: 9
+    - path: '%28Hi10%29_Higurashi_no_Naku_Koro_ni_Kai_-_10_%28DVD_480p%29.ja.srt'
+      episode: 10
+    - path: '%28Hi10%29_Higurashi_no_Naku_Koro_ni_Kai_-_11_%28DVD_480p%29.ja.srt'
+      episode: 11
+    - path: '%28Hi10%29_Higurashi_no_Naku_Koro_ni_Kai_-_12_%28DVD_480p%29.ja.srt'
+      episode: 12
+    - path: '%28Hi10%29_Higurashi_no_Naku_Koro_ni_Kai_-_13_%28DVD_480p%29.ja.srt'
+      episode: 13
+    - path: '%28Hi10%29_Higurashi_no_Naku_Koro_ni_Kai_-_14_%28DVD_480p%29.ja.srt'
+      episode: 14
+    - path: '%28Hi10%29_Higurashi_no_Naku_Koro_ni_Kai_-_15_%28DVD_480p%29.ja.srt'
+      episode: 15
+    - path: '%28Hi10%29_Higurashi_no_Naku_Koro_ni_Kai_-_16_%28DVD_480p%29.ja.srt'
+      episode: 16
+    - path: '%28Hi10%29_Higurashi_no_Naku_Koro_ni_Kai_-_17_%28DVD_480p%29.ja.srt'
+      episode: 17
+    - path: '%28Hi10%29_Higurashi_no_Naku_Koro_ni_Kai_-_18_%28DVD_480p%29.ja.srt'
+      episode: 18
+    - path: '%28Hi10%29_Higurashi_no_Naku_Koro_ni_Kai_-_19_%28DVD_480p%29.ja.srt'
+      episode: 19
+    - path: '%28Hi10%29_Higurashi_no_Naku_Koro_ni_Kai_-_20_%28DVD_480p%29.ja.srt'
+      episode: 20
+    - path: '%28Hi10%29_Higurashi_no_Naku_Koro_ni_Kai_-_21_%28DVD_480p%29.ja.srt'
+      episode: 21
+    - path: '%28Hi10%29_Higurashi_no_Naku_Koro_ni_Kai_-_22_%28DVD_480p%29.ja.srt'
+      episode: 22
+    - path: '%28Hi10%29_Higurashi_no_Naku_Koro_ni_Kai_-_23_%28DVD_480p%29.ja.srt'
+      episode: 23
+    - path: '%28Hi10%29_Higurashi_no_Naku_Koro_ni_Kai_-_24_%28DVD_480p%29.ja.srt'
+      episode: 24
