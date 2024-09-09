@@ -43,9 +43,7 @@ def generate_yaml(base_directory, base_url):
                         seasons['Unknown'] = []
 
                     # Use os.path.join for the relative path, then replace backslashes
-                    relative_path = os.path.join(os.path.basename(base_directory), filename).replace('\\', '/')
-                    encoded_path = url_encode_path(relative_path)
-                    print(encoded_path)
+                    encoded_path = url_encode_path(filename)
 
                     seasons['Unknown'].append({
                         'path': encoded_path,
