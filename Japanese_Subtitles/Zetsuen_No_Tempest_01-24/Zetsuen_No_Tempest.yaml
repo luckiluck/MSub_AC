@@ -1,0 +1,51 @@
+msubtitles:
+- source: https://raw.githubusercontent.com/luckiluck/MSub_AC/main/Japanese_Subtitles/Zetsuen_No_Tempest_01-24/
+  subtitles:
+  - path: Zetsuen_No_Tempest_001.srt
+    episode: 1
+  - path: Zetsuen_No_Tempest_002.srt
+    episode: 2
+  - path: Zetsuen_No_Tempest_003.srt
+    episode: 3
+  - path: Zetsuen_No_Tempest_004.srt
+    episode: 4
+  - path: Zetsuen_No_Tempest_005.srt
+    episode: 5
+  - path: Zetsuen_No_Tempest_006.srt
+    episode: 6
+  - path: Zetsuen_No_Tempest_007.srt
+    episode: 7
+  - path: Zetsuen_No_Tempest_008.srt
+    episode: 8
+  - path: Zetsuen_No_Tempest_009.srt
+    episode: 9
+  - path: Zetsuen_No_Tempest_010.srt
+    episode: 10
+  - path: Zetsuen_No_Tempest_011.srt
+    episode: 11
+  - path: Zetsuen_No_Tempest_012.srt
+    episode: 12
+  - path: Zetsuen_No_Tempest_013.srt
+    episode: 13
+  - path: Zetsuen_No_Tempest_014.srt
+    episode: 14
+  - path: Zetsuen_No_Tempest_015.srt
+    episode: 15
+  - path: Zetsuen_No_Tempest_016.srt
+    episode: 16
+  - path: Zetsuen_No_Tempest_017.srt
+    episode: 17
+  - path: Zetsuen_No_Tempest_018.srt
+    episode: 18
+  - path: Zetsuen_No_Tempest_019.srt
+    episode: 19
+  - path: Zetsuen_No_Tempest_020.srt
+    episode: 20
+  - path: Zetsuen_No_Tempest_021.srt
+    episode: 21
+  - path: Zetsuen_No_Tempest_022.srt
+    episode: 22
+  - path: Zetsuen_No_Tempest_023.srt
+    episode: 23
+  - path: Zetsuen_No_Tempest_024.srt
+    episode: 24
