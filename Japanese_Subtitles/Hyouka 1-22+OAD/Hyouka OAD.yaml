@@ -1,0 +1,7 @@
+msubtitles:
+- source: https://raw.githubusercontent.com/luckiluck/MSub_AC/main/Japanese_Subtitles/Hyouka%201-22%2BOAD/
+  subtitles:
+  - season: 6974
+    items:
+    - path: '%5BAkihitoSubs%5D%20Hyouka%20-%20S00E01%20-%2011.5%20%5BBD%201920x1080%20x265%2010Bit%20AC3%5D.ja.srt'
+      episode: 1
