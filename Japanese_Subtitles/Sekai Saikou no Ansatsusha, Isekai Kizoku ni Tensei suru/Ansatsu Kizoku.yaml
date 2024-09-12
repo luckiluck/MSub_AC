@@ -1,0 +1,29 @@
+msubtitles:
+- source: https://raw.githubusercontent.com/luckiluck/MSub_AC/main/Japanese_Subtitles/Sekai%20Saikou%20no%20Ansatsusha%2C%20Isekai%20Kizoku%20ni%20Tensei%20suru/
+  subtitles:
+  - season: 44393
+    items:
+    - path: EP01.srt
+      episode: 1
+    - path: EP02.srt
+      episode: 2
+    - path: EP03.srt
+      episode: 3
+    - path: EP04.srt
+      episode: 4
+    - path: EP05.srt
+      episode: 5
+    - path: EP06.srt
+      episode: 6
+    - path: EP07.srt
+      episode: 7
+    - path: EP08.srt
+      episode: 8
+    - path: EP09.srt
+      episode: 9
+    - path: EP10.srt
+      episode: 10
+    - path: EP11.srt
+      episode: 11
+    - path: EP12.srt
+      episode: 12
