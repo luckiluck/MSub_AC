@@ -10,10 +10,21 @@ def extract_season_episode(filename):
     if match:
         return int(match.group(1)), int(match.group(2))
 
-    match = re.search(r'(?:\s|-_|\[|第)(\d{1,3})(?:\s|_|v|\]|話)', filename)
+    season = None
+    match = re.search(r'S(\d+)', filename)
     if match:
-        return None, int(match.group(1))
-    return None, None
+        season = int(match.group(1))
+
+    episode = None
+    match = re.search(r'E(\d+)', filename)
+    if match:
+        episode = int(match.group(1))
+
+    match = re.search(r'(?:\s|-_|\[|第|_)(\d{2,3})(?:\s|_|v\d{1}|\]|話|\..{3})', filename)
+    if match:
+        return season if season is not None else None, int(match.group(1))
+
+    return season, episode
 
 def url_encode_path(path):
     # Convert backslashes to forward slashes and encode
@@ -22,6 +33,7 @@ def url_encode_path(path):
 
 def generate_yaml(base_directory, base_url, kitsu_id=True):
     seasons = {}
+    yaml_data = {}
 
     encoded_base_dir = url_encode_path(os.path.basename(base_directory))
     # Construct the full base_url by combining it with the encoded base_directory
@@ -64,7 +76,7 @@ def generate_yaml(base_directory, base_url, kitsu_id=True):
             }
 
     if yaml_data:
-        print('Link to generated YAML file:')
+        print("\033[95mLink to generated YAML file:\033[0m")
         print(base_url + encoded_base_dir + '/' + f'{encoded_base_dir}.yaml\n')
 
         # Get Kitsu ID
@@ -104,7 +116,7 @@ def generate_yaml(base_directory, base_url, kitsu_id=True):
                             print(f"Skipping file: {filename}")
 
             if seasons:
-                print('Link to generated YAML file:')
+                print("\033[95mLink to generated YAML file:\033[0m")
                 print(base_url + encoded_base_dir + '/' + url_encode_path(season_dir + '/') + quote(f"{season_dir}.yaml"))
 
                 # Get Kitsu ID
@@ -131,8 +143,8 @@ def generate_yaml(base_directory, base_url, kitsu_id=True):
 
 
 # Example usage
-base_directory = 'C:\AC\Working on\Github\MSub_AC\Japanese_Subtitles\Hyouka 1-22+OAD'  # Replace with your actual base directory path
+base_directory = 'D:\Python\MSub_AC\Japanese_Subtitles\Clannad Mou Hitotsu no Sekai, Tomoyo-hen'  # Replace with your actual base directory path
 base_url = 'https://raw.githubusercontent.com/luckiluck/MSub_AC/main/Japanese_Subtitles/'  # Replace with your actual base URL
 yaml_content = generate_yaml(base_directory, base_url)
 
-print("YAML file generated successfully.")
+print("\033[92mYAML file generated successfully.\033[0m")
