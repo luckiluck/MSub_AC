@@ -1,0 +1,7 @@
+msubtitles:
+- source: https://raw.githubusercontent.com/luckiluck/MSub_AC/main/Japanese_Subtitles/Clannad%20After%20Story%20-%20Mou%20Hitotsu%20no%20Sekai%2C%20Kyou-hen/
+  subtitles:
+  - season: 4529
+    items:
+    - path: '%5BSumiSora%5D%5BCLANNAD-AfterStory-%5D%5BDVDRip%5D%5B25%5D%5Bx264_2aac%5D%5BGB_Big5_JIS%5D%288E66252A%29.srt'
+      episode: 1

@@ -1,0 +1,7 @@
+msubtitles:
+- source: https://raw.githubusercontent.com/luckiluck/MSub_AC/main/Japanese_Subtitles/Clannad%20Mou%20Hitotsu%20no%20Sekai%2C%20Tomoyo-hen/
+  subtitles:
+  - season: 3438
+    items:
+    - path: '%5BSumiSora%5D%5BCLANNAD%5D%5BDVDRip%5D%5B24%5D%5Bx264_2aac%5D%5BGB_Big5_JIS%5D%28E7B758FF%29.srt'
+      episode: 1

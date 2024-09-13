@@ -1,0 +1,51 @@
+msubtitles:
+- source: https://raw.githubusercontent.com/luckiluck/MSub_AC/main/Japanese_Subtitles/CLANNAD/
+  subtitles:
+  - season: 1962
+    items:
+    - path: '%5BDoki%5D%20Clannad%20-%2001%20%281920x1080%20Hi10P%20BD%20FLAC%29%20%5B4A6B18D8%5D.ja.srt'
+      episode: 1
+    - path: '%5BDoki%5D%20Clannad%20-%2002%20%281920x1080%20Hi10P%20BD%20FLAC%29%20%5B89B3DC80%5D.ja.srt'
+      episode: 2
+    - path: '%5BDoki%5D%20Clannad%20-%2003%20%281920x1080%20Hi10P%20BD%20FLAC%29%20%5B8B5D01CE%5D.ja.srt'
+      episode: 3
+    - path: '%5BDoki%5D%20Clannad%20-%2004%20%281920x1080%20Hi10P%20BD%20FLAC%29%20%5B84FA1A8D%5D.ja.srt'
+      episode: 4
+    - path: '%5BDoki%5D%20Clannad%20-%2005%20%281920x1080%20Hi10P%20BD%20FLAC%29%20%5BB74A12D6%5D.ja.srt'
+      episode: 5
+    - path: '%5BDoki%5D%20Clannad%20-%2006%20%281920x1080%20Hi10P%20BD%20FLAC%29%20%5B48ADAF35%5D.ja.srt'
+      episode: 6
+    - path: '%5BDoki%5D%20Clannad%20-%2007%20%281920x1080%20Hi10P%20BD%20FLAC%29%20%5BB54F54EE%5D.ja.srt'
+      episode: 7
+    - path: '%5BDoki%5D%20Clannad%20-%2008%20%281920x1080%20Hi10P%20BD%20FLAC%29%20%5B8EB55453%5D.ja.srt'
+      episode: 8
+    - path: '%5BDoki%5D%20Clannad%20-%2009%20%281920x1080%20Hi10P%20BD%20FLAC%29%20%5BAD88AD7D%5D.ja.srt'
+      episode: 9
+    - path: '%5BDoki%5D%20Clannad%20-%2010%20%281920x1080%20Hi10P%20BD%20FLAC%29%20%5B6F295AF2%5D.ja.srt'
+      episode: 10
+    - path: '%5BDoki%5D%20Clannad%20-%2011%20%281920x1080%20Hi10P%20BD%20FLAC%29%20%5B27BB5485%5D.ja.srt'
+      episode: 11
+    - path: '%5BDoki%5D%20Clannad%20-%2012%20%281920x1080%20Hi10P%20BD%20FLAC%29%20%5BD159F1FE%5D.ja.srt'
+      episode: 12
+    - path: '%5BDoki%5D%20Clannad%20-%2013%20%281920x1080%20Hi10P%20BD%20FLAC%29%20%5BF9293611%5D.ja.srt'
+      episode: 13
+    - path: '%5BDoki%5D%20Clannad%20-%2014%20%281920x1080%20Hi10P%20BD%20FLAC%29%20%5B65BE7F0B%5D.ja.srt'
+      episode: 14
+    - path: '%5BDoki%5D%20Clannad%20-%2015%20%281920x1080%20Hi10P%20BD%20FLAC%29%20%5BF814B93D%5D.ja.srt'
+      episode: 15
+    - path: '%5BDoki%5D%20Clannad%20-%2016%20%281920x1080%20Hi10P%20BD%20FLAC%29%20%5BE23AD666%5D.ja.srt'
+      episode: 16
+    - path: '%5BDoki%5D%20Clannad%20-%2017%20%281920x1080%20Hi10P%20BD%20FLAC%29%20%5B01721131%5D.ja.srt'
+      episode: 17
+    - path: '%5BDoki%5D%20Clannad%20-%2018%20%281920x1080%20Hi10P%20BD%20FLAC%29%20%5BA76F6C09%5D.ja.srt'
+      episode: 18
+    - path: '%5BDoki%5D%20Clannad%20-%2019%20%281920x1080%20Hi10P%20BD%20FLAC%29%20%5BF37818B6%5D.ja.srt'
+      episode: 19
+    - path: '%5BDoki%5D%20Clannad%20-%2020%20%281920x1080%20Hi10P%20BD%20FLAC%29%20%5B21A432B0%5D.ja.srt'
+      episode: 20
+    - path: '%5BDoki%5D%20Clannad%20-%2021%20%281920x1080%20Hi10P%20BD%20FLAC%29%20%5BF31830F4%5D.ja.srt'
+      episode: 21
+    - path: '%5BDoki%5D%20Clannad%20-%2022%20%281920x1080%20Hi10P%20BD%20FLAC%29%20%5B84EC5DF4%5D.ja.srt'
+      episode: 22
+    - path: '%5BDoki%5D%20Clannad%20-%2023%20%281920x1080%20Hi10P%20BD%20FLAC%29%20%5B86EFA80C%5D.ja.srt'
+      episode: 23
