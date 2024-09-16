@@ -77,7 +77,10 @@ def generate_yaml(base_directory, base_url, kitsu_id=True):
 
     if yaml_data:
         print("\033[95mLink to generated YAML file:\033[0m")
-        print(base_url + encoded_base_dir + '/' + f'{encoded_base_dir}.yaml\n')
+        yaml_link = f'https://raw.githubusercontent.com/luckiluck/MSub_AC/main/Japanese_Subtitles/{encoded_base_dir}/{encoded_base_dir}.yaml'
+        print(yaml_link)
+        if len(yaml_link) > 200:
+            print(f"\033[91mYAML file link is too long ({len(yaml_link)} characters)!\033[0m\n")
 
         # Get Kitsu ID
         if kitsu_id:
@@ -117,7 +120,10 @@ def generate_yaml(base_directory, base_url, kitsu_id=True):
 
             if seasons:
                 print("\033[95mLink to generated YAML file:\033[0m")
-                print(base_url + encoded_base_dir + '/' + url_encode_path(season_dir + '/') + quote(f"{season_dir}.yaml"))
+                yaml_link = f'https://raw.githubusercontent.com/luckiluck/MSub_AC/main/Japanese_Subtitles/{encoded_base_dir}/{url_encode_path(season_dir)}/{url_encode_path(season_dir)}.yaml'
+                print(yaml_link)
+                if len(yaml_link) > 200:
+                    print(f"\033[91mYAML file link is too long ({len(yaml_link)} characters)!\033[0m\n")
 
                 # Get Kitsu ID
                 anime_id = None
@@ -143,7 +149,7 @@ def generate_yaml(base_directory, base_url, kitsu_id=True):
 
 
 # Example usage
-base_directory = 'D:\Python\MSub_AC\Japanese_Subtitles\Clannad Mou Hitotsu no Sekai, Tomoyo-hen'  # Replace with your actual base directory path
+base_directory = 'D:\Python\MSub_AC\Japanese_Subtitles\Kage no Jitsuryokusha ni Naritakute！ 2nd Season'  # Replace with your actual base directory path
 base_url = 'https://raw.githubusercontent.com/luckiluck/MSub_AC/main/Japanese_Subtitles/'  # Replace with your actual base URL
 yaml_content = generate_yaml(base_directory, base_url)
 
