@@ -1,0 +1,29 @@
+msubtitles:
+- source: https://raw.githubusercontent.com/luckiluck/MSub_AC/main/Japanese_Subtitles/Aldnoah.Zero/
+  subtitles:
+  - season: 8297
+    items:
+    - path: '%5BKamigami%5D%20Aldnoah%20Zero%20-%20S01E01%20%5BBD%20S01E10S01E80p%20xS01E265%20MaS01E10p%20FLAC%5D.Jp.srt'
+      episode: 1
+    - path: '%5BKamigami%5D%20Aldnoah%20Zero%20-%20S01E02%20%5BBD%20S01E10S01E80p%20xS01E265%20MaS01E10p%20FLAC%5D.Jp.srt'
+      episode: 2
+    - path: '%5BKamigami%5D%20Aldnoah%20Zero%20-%20S01E03%20%5BBD%20S01E10S01E80p%20xS01E265%20MaS01E10p%20FLAC%5D.Jp.srt'
+      episode: 3
+    - path: '%5BKamigami%5D%20Aldnoah%20Zero%20-%20S01E04%20%5BBD%20S01E10S01E80p%20xS01E265%20MaS01E10p%20FLAC%5D.Jp.srt'
+      episode: 4
+    - path: '%5BKamigami%5D%20Aldnoah%20Zero%20-%20S01E05%20%5BBD%20S01E10S01E80p%20xS01E265%20MaS01E10p%20FLAC%5D.Jp.srt'
+      episode: 5
+    - path: '%5BKamigami%5D%20Aldnoah%20Zero%20-%20S01E06%20%5BBD%20S01E10S01E80p%20xS01E265%20MaS01E10p%20FLAC%5D.Jp.srt'
+      episode: 6
+    - path: '%5BKamigami%5D%20Aldnoah%20Zero%20-%20S01E07%20%5BBD%20S01E10S01E80p%20xS01E265%20MaS01E10p%20FLAC%5D.Jp.srt'
+      episode: 7
+    - path: '%5BKamigami%5D%20Aldnoah%20Zero%20-%20S01E08%20%5BBD%20S01E10S01E80p%20xS01E265%20MaS01E10p%20FLAC%5D.Jp.srt'
+      episode: 8
+    - path: '%5BKamigami%5D%20Aldnoah%20Zero%20-%20S01E09%20%5BBD%20S01E10S01E80p%20xS01E265%20MaS01E10p%20FLAC%5D.Jp.srt'
+      episode: 9
+    - path: '%5BKamigami%5D%20Aldnoah%20Zero%20-%20S01E10%20%5BBD%20S01E10S01E80p%20xS01E265%20MaS01E10p%20FLAC%5D.Jp.srt'
+      episode: 10
+    - path: '%5BKamigami%5D%20Aldnoah%20Zero%20-%20S01E11%20%5BBD%20S01E10S01E80p%20xS01E265%20MaS01E10p%20FLAC%5D.Jp.srt'
+      episode: 11
+    - path: '%5BKamigami%5D%20Aldnoah%20Zero%20-%20S01E12%20%5BBD%20S01E10S01E80p%20xS01E265%20MaS01E10p%20FLAC%5D.Jp.srt'
+      episode: 12
