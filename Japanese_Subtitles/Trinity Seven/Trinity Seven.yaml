@@ -1,0 +1,29 @@
+msubtitles:
+- source: https://raw.githubusercontent.com/luckiluck/MSub_AC/main/Japanese_Subtitles/Trinity%20Seven/
+  subtitles:
+  - season: 8607
+    items:
+    - path: Trinity%20Seven.S01E01.JA.srt
+      episode: 1
+    - path: Trinity%20Seven.S01E02.JA.srt
+      episode: 2
+    - path: Trinity%20Seven.S01E03.JA.srt
+      episode: 3
+    - path: Trinity%20Seven.S01E04.JA.srt
+      episode: 4
+    - path: Trinity%20Seven.S01E05.JA.srt
+      episode: 5
+    - path: Trinity%20Seven.S01E06.JA.srt
+      episode: 6
+    - path: Trinity%20Seven.S01E07.JA.srt
+      episode: 7
+    - path: Trinity%20Seven.S01E08.JA.srt
+      episode: 8
+    - path: Trinity%20Seven.S01E09.JA.srt
+      episode: 9
+    - path: Trinity%20Seven.S01E10.JA.srt
+      episode: 10
+    - path: Trinity%20Seven.S01E11.JA.srt
+      episode: 11
+    - path: Trinity%20Seven.S01E12.JA.srt
+      episode: 12
