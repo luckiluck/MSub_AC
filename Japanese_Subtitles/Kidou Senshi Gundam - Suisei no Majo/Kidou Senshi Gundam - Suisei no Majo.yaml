@@ -1,0 +1,29 @@
+msubtitles:
+- source: https://raw.githubusercontent.com/luckiluck/MSub_AC/main/Japanese_Subtitles/Kidou%20Senshi%20Gundam%20-%20Suisei%20no%20Majo/
+  subtitles:
+  - season: 45217
+    items:
+    - path: '%5BJudas%5D%20Mobile%20Suit%20Gundam%20-%20The%20Witch%20from%20Mercury%20-%20S01E01.ja.srt'
+      episode: 1
+    - path: '%5BJudas%5D%20Mobile%20Suit%20Gundam%20-%20The%20Witch%20from%20Mercury%20-%20S01E02.ja.srt'
+      episode: 2
+    - path: '%5BJudas%5D%20Mobile%20Suit%20Gundam%20-%20The%20Witch%20from%20Mercury%20-%20S01E03.ja.srt'
+      episode: 3
+    - path: '%5BJudas%5D%20Mobile%20Suit%20Gundam%20-%20The%20Witch%20from%20Mercury%20-%20S01E04.ja.srt'
+      episode: 4
+    - path: '%5BJudas%5D%20Mobile%20Suit%20Gundam%20-%20The%20Witch%20from%20Mercury%20-%20S01E05.ja.srt'
+      episode: 5
+    - path: '%5BJudas%5D%20Mobile%20Suit%20Gundam%20-%20The%20Witch%20from%20Mercury%20-%20S01E06.ja.srt'
+      episode: 6
+    - path: '%5BJudas%5D%20Mobile%20Suit%20Gundam%20-%20The%20Witch%20from%20Mercury%20-%20S01E07.ja.srt'
+      episode: 7
+    - path: '%5BJudas%5D%20Mobile%20Suit%20Gundam%20-%20The%20Witch%20from%20Mercury%20-%20S01E08.ja.srt'
+      episode: 8
+    - path: '%5BJudas%5D%20Mobile%20Suit%20Gundam%20-%20The%20Witch%20from%20Mercury%20-%20S01E09.ja.srt'
+      episode: 9
+    - path: '%5BJudas%5D%20Mobile%20Suit%20Gundam%20-%20The%20Witch%20from%20Mercury%20-%20S01E10.ja.srt'
+      episode: 10
+    - path: '%5BJudas%5D%20Mobile%20Suit%20Gundam%20-%20The%20Witch%20from%20Mercury%20-%20S01E11.ja.srt'
+      episode: 11
+    - path: '%5BJudas%5D%20Mobile%20Suit%20Gundam%20-%20The%20Witch%20from%20Mercury%20-%20S01E12.ja.srt'
+      episode: 12
