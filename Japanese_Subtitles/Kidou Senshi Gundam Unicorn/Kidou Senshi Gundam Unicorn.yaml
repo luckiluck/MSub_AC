@@ -1,0 +1,19 @@
+msubtitles:
+- source: https://raw.githubusercontent.com/luckiluck/MSub_AC/main/Japanese_Subtitles/Kidou%20Senshi%20Gundam%20Unicorn/
+  subtitles:
+  - season: 4525
+    items:
+    - path: '%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0UC.S01E1.Bandai.ja.srt'
+      episode: 1
+    - path: '%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0UC.S01E2.Bandai.ja.srt'
+      episode: 2
+    - path: '%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0UC.S01E3.Bandai.ja.srt'
+      episode: 3
+    - path: '%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0UC.S01E4.Bandai.ja.srt'
+      episode: 4
+    - path: '%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0UC.S01E5.Bandai.ja.srt'
+      episode: 5
+    - path: '%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0UC.S01E6.Bandai.ja.srt'
+      episode: 6
+    - path: '%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0UC.S01E7.Bandai.ja.srt'
+      episode: 7
