@@ -1,0 +1,7 @@
+msubtitles:
+- source: https://raw.githubusercontent.com/luckiluck/MSub_AC/main/Japanese_Subtitles/K-ON%21%20Live%20House%21/
+  subtitles:
+  - season: 4758
+    items:
+    - path: '%5BVCB-Studio%5D%20K-ON%21%20S1E01%20%5Bretimed%5D.srt'
+      episode: 1
