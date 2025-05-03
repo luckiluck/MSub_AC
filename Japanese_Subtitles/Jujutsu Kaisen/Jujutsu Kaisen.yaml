@@ -1,0 +1,53 @@
+msubtitles:
+- source: https://raw.githubusercontent.com/luckiluck/MSub_AC/main/Japanese_Subtitles/Jujutsu%20Kaisen/
+  subtitles:
+  - season: 42765
+    items:
+    - path: '%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6.S01E01.%E4%B8%A1%E9%9D%A2%E5%AE%BF%E5%84%BA.WEBRip.Netflix.ja%5Bcc%5D.srt'
+      episode: 1
+    - path: '%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6.S01E02.%E8%87%AA%E5%88%86%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB.WEBRip.Netflix.ja%5Bcc%5D.srt'
+      episode: 2
+    - path: '%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6.S01E03.%E9%89%84%E9%AA%A8%E5%A8%98.WEBRip.Netflix.ja%5Bcc%5D.srt'
+      episode: 3
+    - path: '%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6.S01E04.%E5%91%AA%E8%83%8E%E6%88%B4%E5%A4%A9.WEBRip.Netflix.ja%5Bcc%5D.srt'
+      episode: 4
+    - path: '%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6.S01E05.%E5%91%AA%E8%83%8E%E6%88%B4%E5%A4%A9%EF%BC%8D%E5%BC%90%EF%BC%8D.WEBRip.Netflix.ja%5Bcc%5D.srt'
+      episode: 5
+    - path: '%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6.S01E06.%E9%9B%A8%E5%BE%8C.WEBRip.Netflix.ja%5Bcc%5D.srt'
+      episode: 6
+    - path: '%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6.S01E07.%E6%80%A5%E8%A5%B2.WEBRip.Netflix.ja%5Bcc%5D.srt'
+      episode: 7
+    - path: '%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6.S01E08.%E9%80%80%E5%B1%88.WEBRip.Netflix.ja%5Bcc%5D.srt'
+      episode: 8
+    - path: '%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6.S01E09.%E5%B9%BC%E9%AD%9A%E3%81%A8%E9%80%86%E7%BD%B0.WEBRip.Netflix.ja%5Bcc%5D.srt'
+      episode: 9
+    - path: '%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6.S01E10.%E7%84%A1%E7%82%BA%E8%BB%A2%E5%A4%89.WEBRip.Netflix.ja%5Bcc%5D.srt'
+      episode: 10
+    - path: '%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6.S01E11.%E5%9B%BA%E9%99%8B%E8%A0%A2%E6%84%9A.WEBRip.Netflix.ja%5Bcc%5D.srt'
+      episode: 11
+    - path: '%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6.S01E12.%E3%81%84%E3%81%A4%E3%81%8B%E3%81%AE%E5%90%9B%E3%81%B8.WEBRip.Netflix.ja%5Bcc%5D.srt'
+      episode: 12
+    - path: '%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6.S01E13.%E3%81%BE%E3%81%9F%E6%98%8E%E6%97%A5.WEBRip.Netflix.ja%5Bcc%5D.srt'
+      episode: 13
+    - path: '%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6.S01E14.%E4%BA%AC%E9%83%BD%E5%A7%89%E5%A6%B9%E6%A0%A1%E4%BA%A4%E6%B5%81%E4%BC%9A%EF%BC%8D%E5%9B%A3%E4%BD%93%E6%88%A6%E2%93%AA%EF%BC%8D.WEBRip.Netflix.ja%5Bcc%5D.srt'
+      episode: 14
+    - path: '%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6.S01E15.%E4%BA%AC%E9%83%BD%E5%A7%89%E5%A6%B9%E6%A0%A1%E4%BA%A4%E6%B5%81%E4%BC%9A%EF%BC%8D%E5%9B%A3%E4%BD%93%E6%88%A6%E2%91%A0%EF%BC%8D.WEBRip.Netflix.ja%5Bcc%5D.srt'
+      episode: 15
+    - path: '%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6.S01E16.%E4%BA%AC%E9%83%BD%E5%A7%89%E5%A6%B9%E6%A0%A1%E4%BA%A4%E6%B5%81%E4%BC%9A%EF%BC%8D%E5%9B%A3%E4%BD%93%E6%88%A6%E2%91%A1%EF%BC%8D.WEBRip.Netflix.ja%5Bcc%5D.srt'
+      episode: 16
+    - path: '%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6.S01E17.%E4%BA%AC%E9%83%BD%E5%A7%89%E5%A6%B9%E6%A0%A1%E4%BA%A4%E6%B5%81%E4%BC%9A%EF%BC%8D%E5%9B%A3%E4%BD%93%E6%88%A6%E2%91%A2%EF%BC%8D.WEBRip.Netflix.ja%5Bcc%5D.srt'
+      episode: 17
+    - path: '%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6.S01E18.%E8%B3%A2%E8%80%85.WEBRip.Netflix.ja%5Bcc%5D.srt'
+      episode: 18
+    - path: '%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6.S01E19.%E9%BB%92%E9%96%83.WEBRip.Netflix.ja%5Bcc%5D.srt'
+      episode: 19
+    - path: '%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6.S01E20.%E8%A6%8F%E6%A0%BC%E5%A4%96.WEBRip.Netflix.ja%5Bcc%5D.srt'
+      episode: 20
+    - path: '%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6.S01E21.%E5%91%AA%E8%A1%93%E7%94%B2%E5%AD%90%E5%9C%92.WEBRip.Netflix.ja%5Bcc%5D.srt'
+      episode: 21
+    - path: '%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6.S01E22.%E8%B5%B7%E9%A6%96%E9%9B%B7%E5%90%8C.WEBRip.Netflix.ja%5Bcc%5D.srt'
+      episode: 22
+    - path: '%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6.S01E23.%E8%B5%B7%E9%A6%96%E9%9B%B7%E5%90%8C.-.%E5%BC%90.-.WEBRip.Netflix.ja%5Bcc%5D.srt'
+      episode: 23
+    - path: '%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6.S01E24.%E5%85%B1%E7%8A%AF.WEBRip.Netflix.ja%5Bcc%5D.srt'
+      episode: 24
