@@ -1,0 +1,7 @@
+msubtitles:
+- source: https://raw.githubusercontent.com/luckiluck/MSub_AC/main/Japanese_Subtitles/K-ON%21%21%20Keikaku%21/
+  subtitles:
+  - season: 5841
+    items:
+    - path: '%5Bphilosophy-raws%5D%20%E3%81%91%E3%81%84%E3%81%8A%E3%82%93%EF%BC%81%EF%BC%81%20-%2001%20%5Bretimed%5D.srt'
+      episode: 1
