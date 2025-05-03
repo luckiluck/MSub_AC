@@ -1,0 +1,31 @@
+msubtitles:
+- source: https://raw.githubusercontent.com/luckiluck/MSub_AC/main/Japanese_Subtitles/K-ON%21/
+  subtitles:
+  - season: 4240
+    items:
+    - path: '%5BVCB-Studio%5D%20K-ON%21%20S1E01%20%5Bretimed%5D.srt'
+      episode: 1
+    - path: '%5BVCB-Studio%5D%20K-ON%21%20S1E02%20%5Bretimed%5D.srt'
+      episode: 2
+    - path: '%5BVCB-Studio%5D%20K-ON%21%20S1E03%20%5Bretimed%5D.srt'
+      episode: 3
+    - path: '%5BVCB-Studio%5D%20K-ON%21%20S1E04%20%5Bretimed%5D.srt'
+      episode: 4
+    - path: '%5BVCB-Studio%5D%20K-ON%21%20S1E05%20%5Bretimed%5D.srt'
+      episode: 5
+    - path: '%5BVCB-Studio%5D%20K-ON%21%20S1E06%20%5Bretimed%5D.srt'
+      episode: 6
+    - path: '%5BVCB-Studio%5D%20K-ON%21%20S1E07%20%5Bretimed%5D.srt'
+      episode: 7
+    - path: '%5BVCB-Studio%5D%20K-ON%21%20S1E08%20%5Bretimed%5D.srt'
+      episode: 8
+    - path: '%5BVCB-Studio%5D%20K-ON%21%20S1E09%20%5Bretimed%5D.srt'
+      episode: 9
+    - path: '%5BVCB-Studio%5D%20K-ON%21%20S1E10%20%5Bretimed%5D.srt'
+      episode: 10
+    - path: '%5BVCB-Studio%5D%20K-ON%21%20S1E11%20%5Bretimed%5D.srt'
+      episode: 11
+    - path: '%5BVCB-Studio%5D%20K-ON%21%20S1E12%20%5Bretimed%5D.srt'
+      episode: 12
+    - path: '%5BVCB-Studio%5D%20K-ON%21%20S1E13%20%5Bretimed%5D.srt'
+      episode: 13
