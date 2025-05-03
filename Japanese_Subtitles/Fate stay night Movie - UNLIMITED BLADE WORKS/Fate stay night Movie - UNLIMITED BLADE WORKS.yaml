@@ -1,0 +1,7 @@
+msubtitles:
+- source: https://raw.githubusercontent.com/luckiluck/MSub_AC/main/Japanese_Subtitles/Fate%20stay%20night%20Movie%20-%20UNLIMITED%20BLADE%20WORKS/
+  subtitles:
+  - season: 4788
+    items:
+    - path: '%E5%8A%87%E5%A0%B4%E7%89%88%20Fate%EF%BC%8Fstay%20night%20UNLIMITED%20BLADE%20WORKS.WEBRip.Netflix.ja%5Bcc%5D.srt'
+      episode: 1
