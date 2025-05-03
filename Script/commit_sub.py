@@ -1,45 +1,37 @@
 import os
 import subprocess
-import sys
 
 def git_commit(folder_path, commit_message, push=False):
     try:
         # Change directory to the folder
         os.chdir(folder_path)
 
-        # Check if there are changes to commit
-        #status_result = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True)
-        #if not status_result.stdout.strip():
-        #    print("\033[93mNo changes to commit. The folder is already up-to-date.\033[0m")
-        #    return
-
-        # Check if there are .srt or .yaml files to add
-        status_result = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True)
-        files_to_add = [line for line in status_result.stdout.splitlines() if line.endswith((".srt", ".yaml", ".ass"))]
+        # Check if there are .srt, .yaml, or .ass files in the current folder
+        files_to_add = []
+        for root, _, files in os.walk(folder_path):
+            for f in files:
+                if f.endswith((".srt", ".yaml", ".ass")):
+                    files_to_add.append(os.path.join(root, f))
         if not files_to_add:
-            print("\033[91mNo .srt or .yaml files to commit.\033[0m")
-            return
+            print("[\033[91mError\033[0m] No .yaml, or .ass files to commit in the current folder.")
+            exit(1)
 
-        # Add only .srt and .yaml files to staging
-        subprocess.run(["git", "add", "*.srt", "*.yaml"], check=True)
-
-        # Check if there are .ass files and add them if they exist
-        ass_files = [f for f in os.listdir(folder_path) if f.endswith(".ass")]
-        if ass_files:
-            subprocess.run(["git", "add", "*.ass"], check=True)
+        # Add only .srt, .yaml, and .ass files in the current folder to staging
+        for file in files_to_add:
+            subprocess.run(["git", "add", file], check=True)
 
         # Commit the changes
         subprocess.run(["git", "commit", "-m", commit_message], check=True)
 
-        print("\033[92mChanges committed successfully.\033[0m")
+        print("[\033[92mInfo\033[0m] Changes committed successfully.")
 
         # Push the changes if push is True
         if push:
             subprocess.run(["git", "push"], check=True)
-            print("\033[92mChanges pushed successfully.\033[0m\n")
+            print("[\033[92mInfo\033[0m] Changes pushed successfully.")
     except subprocess.CalledProcessError as e:
-        print(f"\033[91mAn error occurred: {e}\033[0m")
+        print(f"[\033[91mError\033[0m] An error occurred: {e}")
     except FileNotFoundError:
-        print("\033[91mGit is not installed or not found in PATH.\033[0m")
+        print("[\033[91mError\033[0m] Git is not installed or not found in PATH.")
     except Exception as e:
-        print(f"\033[91mUnexpected error: {e}\033[0m")
+        print(f"[\033[91mError\033[0m] Unexpected error: {e}")

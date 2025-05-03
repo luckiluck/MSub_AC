@@ -28,9 +28,9 @@ def signin(driver, username, password):
         submit_button = driver.find_element(By.XPATH, "//button[@type='submit']")
         submit_button.click()
 
-        print("\033[92mSigned in successfully!\033[0m")
+        print("[\033[92mInfo\033[0m] Signed in successfully!")
     except Exception as e:
-        print(f"\033[91mAn error occurred during sign-in: {e}\033[0m")
+        print(f"[\033[91mError\033[0m] An error occurred during sign-in: {e}")
 
 def fill_form(driver, movie, language, imdb, season, url):
     try:
@@ -64,13 +64,16 @@ def fill_form(driver, movie, language, imdb, season, url):
         url_field.clear()
         url_field.send_keys(url)
 
-        # Submit the form (if there's a submit button)
-        #submit_button = driver.find_element(By.XPATH, "//button[@type='submit']")
-        #submit_button.click()
+        # Wait for the submit button to be clickable and click it
+        submit_button = wait.until(EC.element_to_be_clickable((By.XPATH, "//input[@type='submit' and @value='Add Subtitle']")))
+        submit_button.click()
 
-        print("\033[92mForm submitted successfully!\033[0m")
+        print("[\033[92mInfo\033[0m] Form submitted successfully!")
+
+        return 0
     except Exception as e:
-        print(f"\033[91mAn error occurred while filling the form: {e}\033[0m")
+        print(f"[\033[91mError\033[0m] An error occurred while filling the form: {e}")
+        return 1
 
 def init_web_driver(chromedriver_path):
     """
