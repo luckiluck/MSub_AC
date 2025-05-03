@@ -1,0 +1,7 @@
+msubtitles:
+- source: https://raw.githubusercontent.com/luckiluck/MSub_AC/main/Japanese_Subtitles/K-ON%21%20Movie/
+  subtitles:
+  - season: 5810
+    items:
+    - path: '%5BKamigami%5D%20K-ON%21%20Movie%20%5BBD%20x264%201920x1080%20FLAC%5D%5BJPN%5D.srt'
+      episode: 1
