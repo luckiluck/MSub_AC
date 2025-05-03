@@ -1,0 +1,7 @@
+msubtitles:
+- source: https://raw.githubusercontent.com/luckiluck/MSub_AC/main/Japanese_Subtitles/PSYCHO-PASS%20Movie/
+  subtitles:
+  - season: 7986
+    items:
+    - path: '%5BKamigami%5D%20Psycho-Pass%20The%20Movie%20%5BBD%201080p%20x264%20Hi10%20AAC%5D%5BCHS%2C%20JPN%5D.srt'
+      episode: 1
