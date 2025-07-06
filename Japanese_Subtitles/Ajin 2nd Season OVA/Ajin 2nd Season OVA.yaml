@@ -1,0 +1,7 @@
+msubtitles:
+- source: https://raw.githubusercontent.com/luckiluck/MSub_AC/main/Japanese_Subtitles/Ajin%202nd%20Season%20OVA/
+  subtitles:
+  - season: 41634
+    items:
+    - path: Ajin%20OAD%203.JA.srt
+      episode: 1
