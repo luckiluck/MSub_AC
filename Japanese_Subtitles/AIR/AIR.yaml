@@ -1,0 +1,29 @@
+msubtitles:
+- source: https://raw.githubusercontent.com/luckiluck/MSub_AC/main/Japanese_Subtitles/AIR/
+  subtitles:
+  - season: 7660
+    items:
+    - path: '%5BPOPGO%5D%20AIR%2001.srt'
+      episode: 1
+    - path: '%5BPOPGO%5D%20AIR%2002.srt'
+      episode: 2
+    - path: '%5BPOPGO%5D%20AIR%2003.srt'
+      episode: 3
+    - path: '%5BPOPGO%5D%20AIR%2004.srt'
+      episode: 4
+    - path: '%5BPOPGO%5D%20AIR%2005.srt'
+      episode: 5
+    - path: '%5BPOPGO%5D%20AIR%2006.srt'
+      episode: 6
+    - path: '%5BPOPGO%5D%20AIR%2007.srt'
+      episode: 7
+    - path: '%5BPOPGO%5D%20AIR%2008.srt'
+      episode: 8
+    - path: '%5BPOPGO%5D%20AIR%2009.srt'
+      episode: 9
+    - path: '%5BPOPGO%5D%20AIR%2010.srt'
+      episode: 10
+    - path: '%5BPOPGO%5D%20AIR%2011.srt'
+      episode: 11
+    - path: '%5BPOPGO%5D%20AIR%2012.srt'
+      episode: 12
