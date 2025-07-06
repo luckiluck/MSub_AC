@@ -1,0 +1,7 @@
+msubtitles:
+- source: https://raw.githubusercontent.com/luckiluck/MSub_AC/main/Japanese_Subtitles/AKIRA/
+  subtitles:
+  - season: 29
+    items:
+    - path: AKIRA.WEBRip.Netflix.ja%5Bcc%5D.srt
+      episode: 1
