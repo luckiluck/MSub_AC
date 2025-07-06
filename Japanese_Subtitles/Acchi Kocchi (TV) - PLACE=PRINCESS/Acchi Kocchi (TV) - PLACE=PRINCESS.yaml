@@ -1,0 +1,7 @@
+msubtitles:
+- source: https://raw.githubusercontent.com/luckiluck/MSub_AC/main/Japanese_Subtitles/Acchi%20Kocchi%20%28TV%29%20-%20PLACE%3DPRINCESS/
+  subtitles:
+  - season: 7401
+    items:
+    - path: '%5BNanakoRaws%5D%20Acchi%20Kocchi%20-%2001%20%28AT-X%201920x1080%20x264%20AAC%29.srt'
+      episode: 1
