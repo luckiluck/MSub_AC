@@ -1,0 +1,7460 @@
+1
+00:00:01,600 --> 00:00:02,770
+Okay.
+
+2
+00:00:01,680 --> 00:00:03,120
+えっと
+
+3
+00:00:03,120 --> 00:00:06,010
+キジャの示した方角でいうと
+
+4
+00:00:03,390 --> 00:00:06,270
+Based on the direction Ki-ja indicated,
+
+5
+00:00:05,060 --> 00:00:10,060
+本字幕由✿花語&花丸字幕組✿共同製作
+
+6
+00:00:06,010 --> 00:00:08,500
+緑龍がいるのはこの範囲だね
+
+7
+00:00:06,270 --> 00:00:08,520
+the Green Dragon should be in this area.
+
+8
+00:00:08,500 --> 00:00:09,410
+うむ
+
+9
+00:00:08,520 --> 00:00:09,110
+Yes.
+
+10
+00:00:09,110 --> 00:00:13,700
+Current Location
+
+11
+00:00:09,110 --> 00:00:13,700
+Kouka Kingdom
+
+12
+00:00:09,110 --> 00:00:13,700
+Kuuto
+
+13
+00:00:09,110 --> 00:00:13,700
+Saika
+
+14
+00:00:09,110 --> 00:00:13,700
+m 393 486 l 585 486 585 537 393 537
+
+15
+00:00:09,110 --> 00:00:13,700
+m 628 629 l 699 629 699 669 628 669
+
+16
+00:00:09,110 --> 00:00:13,700
+m 909 279 l 984 279 984 321 909 321
+
+17
+00:00:09,110 --> 00:00:13,700
+m 987 73 l 1123 73 1123 122 987 122
+
+18
+00:00:09,690 --> 00:00:11,190
+If we continue in that direction,
+
+19
+00:00:09,880 --> 00:00:13,940
+このまま行くと彩火の都や緋龍城にぶち当てるな
+
+20
+00:00:11,190 --> 00:00:13,700
+we'll come dangerously close
+to Saika and Hiryuu Castle.
+
+21
+00:00:14,700 --> 00:00:16,100
+だね
+
+22
+00:00:14,780 --> 00:00:16,120
+You're right.
+
+23
+00:00:16,100 --> 00:00:20,540
+山沿いに遠回りしながら緑龍の方向を確認していこう
+
+24
+00:00:16,120 --> 00:00:20,790
+Let's go around, following the mountains,
+until we have a better idea of Green Dragon's location.
+
+25
+00:00:20,790 --> 00:00:21,450
+Yes.
+
+26
+00:00:29,000 --> 00:00:32,380
+O maiden!
+
+27
+00:00:29,000 --> 00:00:32,380
+otome yo
+
+28
+00:00:32,420 --> 00:00:37,260
+Flare up in the dawning sun!
+
+29
+00:00:32,420 --> 00:00:37,260
+akatsuki ni moeagare
+
+30
+00:00:47,520 --> 00:00:50,900
+I want to tear off the guise of the ignorant
+
+31
+00:00:47,520 --> 00:00:50,900
+muchi de kayowaku mamorareru dake no
+
+32
+00:00:50,900 --> 00:00:54,320
+I want to tear off the guise of the ignorant
+
+33
+00:00:50,900 --> 00:00:54,320
+muchi de kayowaku mamorareru dake no
+
+34
+00:00:54,320 --> 00:00:57,450
+Frail protected princess and live
+
+35
+00:00:54,320 --> 00:00:57,450
+hime nugisutete watashi wa ikitai
+
+36
+00:00:57,450 --> 00:01:01,160
+Frail protected princess and live
+
+37
+00:00:57,450 --> 00:01:01,160
+hime nugisutete watashi wa ikitai
+
+38
+00:01:01,160 --> 00:01:03,960
+To conquer the color of the burning dawn
+
+39
+00:01:01,160 --> 00:01:03,960
+mukashi yori sukoshi dake suki ni nareta
+
+40
+00:01:03,960 --> 00:01:06,870
+To conquer the color of the burning dawn
+
+41
+00:01:03,960 --> 00:01:06,870
+mukashi yori sukoshi dake suki ni nareta
+
+42
+00:01:06,870 --> 00:01:11,000
+That I've recently started enjoying
+
+43
+00:01:06,870 --> 00:01:11,000
+akatsuki no sora no iro nabikase
+
+44
+00:01:11,000 --> 00:01:13,550
+With strength and commanding presence
+
+45
+00:01:11,000 --> 00:01:13,550
+rinzen to tsuyoku
+
+46
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+47
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+48
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+49
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+50
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+51
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+52
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+53
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+54
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+55
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+56
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+57
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+58
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+59
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+60
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+61
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+62
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+63
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+64
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+65
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+66
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+67
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+68
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+69
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+70
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+71
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+72
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+73
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+74
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+75
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+76
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+77
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+78
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+79
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+80
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+81
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+82
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+83
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+84
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+85
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+86
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+87
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+88
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+89
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+90
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+91
+00:01:13,550 --> 00:01:17,010
+I strive to be someone I'm proud of
+
+92
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+93
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+94
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+95
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+96
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+97
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+98
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+99
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+100
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+101
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+102
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+103
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+104
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+105
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+106
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+107
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+108
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+109
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+110
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+111
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+112
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+113
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+114
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+115
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+116
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+117
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+118
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+119
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+120
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+121
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+122
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+123
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+124
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+125
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+126
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+127
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+128
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+129
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+130
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+131
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+132
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+133
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+134
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+135
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+136
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+137
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+138
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+139
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+140
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+141
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+142
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+143
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+144
+00:01:13,550 --> 00:01:17,010
+kedakaku sora wo miagete
+
+145
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+146
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+147
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+148
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+149
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+150
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+151
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+152
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+153
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+154
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+155
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+156
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+157
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+158
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+159
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+160
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+161
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+162
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+163
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+164
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+165
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+166
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+167
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+168
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+169
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+170
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+171
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+172
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+173
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+174
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+175
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+176
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+177
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+178
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+179
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+180
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+181
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+182
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+183
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+184
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+185
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+186
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+187
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+188
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+189
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+190
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+191
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+192
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+193
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+194
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+195
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+196
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+197
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+198
+00:01:17,010 --> 00:01:20,470
+And looking up idealistically to the sky
+
+199
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+200
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+201
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+202
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+203
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+204
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+205
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+206
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+207
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+208
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+209
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+210
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+211
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+212
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+213
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+214
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+215
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+216
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+217
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+218
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+219
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+220
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+221
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+222
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+223
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+224
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+225
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+226
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+227
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+228
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+229
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+230
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+231
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+232
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+233
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+234
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+235
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+236
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+237
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+238
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+239
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+240
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+241
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+242
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+243
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+244
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+245
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+246
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+247
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+248
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+249
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+250
+00:01:17,010 --> 00:01:20,470
+hokoreru jibun ni narou
+
+251
+00:01:20,470 --> 00:01:23,890
+To protect, to love, to stand my ground
+
+252
+00:01:20,470 --> 00:01:23,890
+mamori aishi tsuranuku
+
+253
+00:01:23,890 --> 00:01:27,190
+I won't allow myself to lose anything again
+
+254
+00:01:23,890 --> 00:01:27,190
+keshite ubawasenai
+
+255
+00:01:27,190 --> 00:01:30,770
+Like a noble flower
+
+256
+00:01:27,190 --> 00:01:30,770
+kedakai hana no you ni
+
+257
+00:01:30,770 --> 00:01:34,030
+With single-minded passion
+
+258
+00:01:30,770 --> 00:01:34,030
+hitamuki na jounetsu de
+
+259
+00:01:34,030 --> 00:01:37,610
+Even if faced with a cruel fate
+
+260
+00:01:34,030 --> 00:01:37,610
+zankoku na sadame sae
+
+261
+00:01:37,610 --> 00:01:43,580
+I will push through
+
+262
+00:01:37,610 --> 00:01:43,580
+kirihiraite miseru kara
+
+263
+00:01:56,590 --> 00:02:01,800
+Episode 15:      To a New Land
+
+264
+00:01:56,590 --> 00:02:01,800
+Episode 15:      To a New Land
+
+265
+00:02:03,280 --> 00:02:05,770
+シンア 誰かいる
+
+266
+00:02:03,430 --> 00:02:05,680
+Sin-ha, is anyone there?
+
+267
+00:02:10,360 --> 00:02:12,820
+No? Then let's go.
+
+268
+00:02:10,370 --> 00:02:11,720
+いない
+
+269
+00:02:11,720 --> 00:02:12,940
+じゃ 行こう
+
+270
+00:02:17,080 --> 00:02:19,210
+遠視能力いいな
+
+271
+00:02:17,110 --> 00:02:19,530
+Your long-distance vision is fantastic!
+
+272
+00:02:19,530 --> 00:02:21,410
+It makes it easy to find deserted places.
+
+273
+00:02:19,540 --> 00:02:21,680
+人通りのないとこ探すの楽
+
+274
+00:02:22,770 --> 00:02:25,090
+お役に立っているぞ 青...
+
+275
+00:02:22,830 --> 00:02:25,040
+You're useful, Blue-
+
+276
+00:02:27,540 --> 00:02:29,870
+姫様から名を賜ったらしいな
+
+277
+00:02:27,620 --> 00:02:29,920
+I heard the princess gave you a name.
+
+278
+00:02:30,630 --> 00:02:33,040
+"Sin-ha." It's a good name.
+
+279
+00:02:30,720 --> 00:02:32,980
+シンアだ 良い名だ
+
+280
+00:02:33,540 --> 00:02:35,050
+You should treasure it.
+
+281
+00:02:33,540 --> 00:02:35,100
+大事にするのだぞ
+
+282
+00:02:38,080 --> 00:02:39,230
+よいか
+
+283
+00:02:38,170 --> 00:02:39,180
+Listen.
+
+284
+00:02:39,180 --> 00:02:45,890
+The story of the four dragons reaches back to the birth of the Kouka Kingdom.
+
+285
+00:02:39,230 --> 00:02:40,950
+四龍というのはだな...
+
+286
+00:02:41,740 --> 00:02:45,570
+キジャはシンアが仲間になって なんだか嬉しそう
+
+287
+00:02:41,760 --> 00:02:45,890
+Ki-ja seems happy to have Sin-ha with us.
+
+288
+00:02:47,260 --> 00:02:52,270
+私達は 旅するうち とある村に足を踏み入れた
+
+289
+00:02:47,350 --> 00:02:52,440
+During our travels, we entered a certain village.
+
+290
+00:02:59,390 --> 00:03:00,520
+ここは
+
+291
+00:02:59,490 --> 00:03:00,570
+This place...
+
+292
+00:03:01,740 --> 00:03:05,610
+見捨てられた 将軍や王からね
+
+293
+00:03:01,860 --> 00:03:05,370
+This village has been abandoned by the generals and the king.
+
+294
+00:03:06,830 --> 00:03:10,740
+この辺は何年も作物が実らなくて 水もない
+
+295
+00:03:06,870 --> 00:03:10,750
+For years, this area has been barren and dry.
+
+296
+00:03:11,190 --> 00:03:15,500
+男達は兵役にとられて 都に連れて行かれたんだろう
+
+297
+00:03:11,370 --> 00:03:15,380
+The men must have been taken to the capital to be trained as soldiers.
+
+298
+00:03:17,920 --> 00:03:19,550
+Disease has plagued the village,
+
+299
+00:03:17,920 --> 00:03:22,630
+病気が流行り 移住する力がない者はここで死ぬしかない
+
+300
+00:03:19,550 --> 00:03:22,680
+and those who lacked the strength to move are forced to die here.
+
+301
+00:03:23,720 --> 00:03:24,830
+ひどい
+
+302
+00:03:23,760 --> 00:03:24,720
+How awful.
+
+303
+00:03:26,540 --> 00:03:28,700
+俺の生まれた村もこんなもんだよ
+
+304
+00:03:26,680 --> 00:03:29,020
+The village I was born in was like this too.
+
+305
+00:03:29,680 --> 00:03:33,100
+The Fire Tribe's territory is broad, but most of the land is infertile.
+
+306
+00:03:29,770 --> 00:03:33,390
+火の土地は広いけど ほとんどが痩せた土地だし
+
+307
+00:03:34,060 --> 00:03:39,190
+But the chief, General Kang Su-jin,
+keeps spending money on the army.
+
+308
+00:03:34,080 --> 00:03:36,770
+そのくせ 部族長のカンスジン将軍は
+
+309
+00:03:36,770 --> 00:03:38,920
+軍事にばかり金を回すしね
+
+310
+00:03:38,920 --> 00:03:40,300
+あほだな
+
+311
+00:03:39,190 --> 00:03:40,240
+What a fool.
+
+312
+00:03:43,260 --> 00:03:44,570
+大丈夫
+
+313
+00:03:43,320 --> 00:03:44,530
+Are you all right?
+
+314
+00:03:44,530 --> 00:03:47,540
+Stay back. You'll get sick too.
+
+315
+00:03:44,570 --> 00:03:47,570
+近寄らない方がいい 病が移る
+
+316
+00:03:47,540 --> 00:03:48,490
+But...
+
+317
+00:03:47,570 --> 00:03:48,720
+でも
+
+318
+00:03:52,860 --> 00:03:56,120
+気休めかもしれないけど 薬と水
+
+319
+00:03:52,870 --> 00:03:56,090
+It may not help much,
+but here's some medicine and water.
+
+320
+00:03:58,300 --> 00:03:59,480
+あと 果物
+
+321
+00:03:58,340 --> 00:03:59,760
+And also some fruit.
+
+322
+00:04:03,430 --> 00:04:04,410
+はい
+
+323
+00:04:03,550 --> 00:04:04,390
+Here.
+
+324
+00:04:11,830 --> 00:04:14,500
+あんたら 彩火の人か
+
+325
+00:04:11,930 --> 00:04:14,520
+Are you from Saika?
+
+326
+00:04:14,500 --> 00:04:16,570
+いや 旅の者だよ
+
+327
+00:04:14,520 --> 00:04:16,650
+No, we're travelers.
+
+328
+00:04:16,570 --> 00:04:17,680
+そうか
+
+329
+00:04:16,650 --> 00:04:18,150
+I see.
+
+330
+00:04:18,690 --> 00:04:21,360
+Have you been to Kuuto, then?
+
+331
+00:04:18,700 --> 00:04:21,660
+なら空都には行ったかね
+
+332
+00:04:21,660 --> 00:04:25,190
+新しい王様が立たれたというが
+
+333
+00:04:21,900 --> 00:04:24,950
+They say a new king has been crowned.
+
+334
+00:04:25,190 --> 00:04:27,520
+どんなお方だろう
+
+335
+00:04:25,410 --> 00:04:27,370
+I wonder what he's like.
+
+336
+00:04:32,790 --> 00:04:36,260
+先王 イルはひどい王だった
+
+337
+00:04:32,830 --> 00:04:36,290
+The previous king, Il, was a terrible ruler.
+
+338
+00:04:37,340 --> 00:04:37,380
+Sai Kingdom
+
+339
+00:04:37,340 --> 00:04:37,380
+Sai Kingdom
+
+340
+00:04:37,340 --> 00:04:37,380
+Shin Kingdom
+
+341
+00:04:37,340 --> 00:04:37,380
+Shin Kingdom
+
+342
+00:04:37,380 --> 00:04:37,420
+Sai Kingdom
+
+343
+00:04:37,380 --> 00:04:37,420
+Sai Kingdom
+
+344
+00:04:37,380 --> 00:04:37,420
+Shin Kingdom
+
+345
+00:04:37,380 --> 00:04:37,420
+Shin Kingdom
+
+346
+00:04:37,420 --> 00:04:37,460
+Sai Kingdom
+
+347
+00:04:37,420 --> 00:04:37,460
+Sai Kingdom
+
+348
+00:04:37,420 --> 00:04:37,460
+Shin Kingdom
+
+349
+00:04:37,420 --> 00:04:37,460
+Shin Kingdom
+
+350
+00:04:37,460 --> 00:04:37,500
+Sai Kingdom
+
+351
+00:04:37,460 --> 00:04:37,500
+Sai Kingdom
+
+352
+00:04:37,460 --> 00:04:37,500
+Shin Kingdom
+
+353
+00:04:37,460 --> 00:04:37,500
+Shin Kingdom
+
+354
+00:04:37,500 --> 00:04:37,540
+Sai Kingdom
+
+355
+00:04:37,500 --> 00:04:37,540
+Sai Kingdom
+
+356
+00:04:37,500 --> 00:04:37,540
+Shin Kingdom
+
+357
+00:04:37,500 --> 00:04:37,540
+Shin Kingdom
+
+358
+00:04:37,540 --> 00:04:37,590
+Sai Kingdom
+
+359
+00:04:37,540 --> 00:04:37,590
+Sai Kingdom
+
+360
+00:04:37,540 --> 00:04:37,590
+Shin Kingdom
+
+361
+00:04:37,540 --> 00:04:37,590
+Shin Kingdom
+
+362
+00:04:37,590 --> 00:04:37,630
+Sai Kingdom
+
+363
+00:04:37,590 --> 00:04:37,630
+Sai Kingdom
+
+364
+00:04:37,590 --> 00:04:37,630
+Shin Kingdom
+
+365
+00:04:37,590 --> 00:04:37,630
+Shin Kingdom
+
+366
+00:04:37,630 --> 00:04:37,670
+Sai Kingdom
+
+367
+00:04:37,630 --> 00:04:37,670
+Sai Kingdom
+
+368
+00:04:37,630 --> 00:04:37,670
+Shin Kingdom
+
+369
+00:04:37,630 --> 00:04:37,670
+Shin Kingdom
+
+370
+00:04:37,670 --> 00:04:37,710
+Sai Kingdom
+
+371
+00:04:37,670 --> 00:04:37,710
+Sai Kingdom
+
+372
+00:04:37,670 --> 00:04:37,710
+Shin Kingdom
+
+373
+00:04:37,670 --> 00:04:37,710
+Shin Kingdom
+
+374
+00:04:37,710 --> 00:04:37,750
+Sai Kingdom
+
+375
+00:04:37,710 --> 00:04:37,750
+Sai Kingdom
+
+376
+00:04:37,710 --> 00:04:37,750
+Shin Kingdom
+
+377
+00:04:37,710 --> 00:04:37,750
+Shin Kingdom
+
+378
+00:04:37,750 --> 00:04:37,790
+Sai Kingdom
+
+379
+00:04:37,750 --> 00:04:37,790
+Sai Kingdom
+
+380
+00:04:37,750 --> 00:04:37,790
+Shin Kingdom
+
+381
+00:04:37,750 --> 00:04:37,790
+Shin Kingdom
+
+382
+00:04:37,790 --> 00:04:37,840
+Sai Kingdom
+
+383
+00:04:37,790 --> 00:04:37,840
+Sai Kingdom
+
+384
+00:04:37,790 --> 00:04:37,840
+Shin Kingdom
+
+385
+00:04:37,790 --> 00:04:37,840
+Shin Kingdom
+
+386
+00:04:37,840 --> 00:04:37,880
+Sai Kingdom
+
+387
+00:04:37,840 --> 00:04:37,880
+Sai Kingdom
+
+388
+00:04:37,840 --> 00:04:37,880
+Shin Kingdom
+
+389
+00:04:37,840 --> 00:04:37,880
+Shin Kingdom
+
+390
+00:04:37,880 --> 00:04:37,920
+Sai Kingdom
+
+391
+00:04:37,880 --> 00:04:37,920
+Sai Kingdom
+
+392
+00:04:37,880 --> 00:04:37,920
+Shin Kingdom
+
+393
+00:04:37,880 --> 00:04:37,920
+Shin Kingdom
+
+394
+00:04:37,920 --> 00:04:37,960
+Sai Kingdom
+
+395
+00:04:37,920 --> 00:04:37,960
+Sai Kingdom
+
+396
+00:04:37,920 --> 00:04:37,960
+Shin Kingdom
+
+397
+00:04:37,920 --> 00:04:37,960
+Shin Kingdom
+
+398
+00:04:37,940 --> 00:04:40,630
+他国の圧力に屈し
+
+399
+00:04:37,960 --> 00:04:38,000
+Sai Kingdom
+
+400
+00:04:37,960 --> 00:04:38,000
+Sai Kingdom
+
+401
+00:04:37,960 --> 00:04:38,000
+Shin Kingdom
+
+402
+00:04:37,960 --> 00:04:38,000
+Shin Kingdom
+
+403
+00:04:38,000 --> 00:04:38,040
+Sai Kingdom
+
+404
+00:04:38,000 --> 00:04:38,040
+Sai Kingdom
+
+405
+00:04:38,000 --> 00:04:38,040
+Shin Kingdom
+
+406
+00:04:38,000 --> 00:04:38,040
+Shin Kingdom
+
+407
+00:04:38,040 --> 00:04:38,090
+Sai Kingdom
+
+408
+00:04:38,040 --> 00:04:38,090
+Sai Kingdom
+
+409
+00:04:38,040 --> 00:04:38,090
+Shin Kingdom
+
+410
+00:04:38,040 --> 00:04:38,090
+Shin Kingdom
+
+411
+00:04:38,040 --> 00:04:40,880
+He crumbled under pressure from other kingdoms,
+
+412
+00:04:38,090 --> 00:04:38,130
+Sai Kingdom
+
+413
+00:04:38,090 --> 00:04:38,130
+Sai Kingdom
+
+414
+00:04:38,090 --> 00:04:38,130
+Shin Kingdom
+
+415
+00:04:38,090 --> 00:04:38,130
+Shin Kingdom
+
+416
+00:04:38,130 --> 00:04:38,170
+Sai Kingdom
+
+417
+00:04:38,130 --> 00:04:38,170
+Sai Kingdom
+
+418
+00:04:38,130 --> 00:04:38,170
+Shin Kingdom
+
+419
+00:04:38,130 --> 00:04:38,170
+Shin Kingdom
+
+420
+00:04:38,170 --> 00:04:38,210
+Sai Kingdom
+
+421
+00:04:38,170 --> 00:04:38,210
+Sai Kingdom
+
+422
+00:04:38,170 --> 00:04:38,210
+Shin Kingdom
+
+423
+00:04:38,170 --> 00:04:38,210
+Shin Kingdom
+
+424
+00:04:38,210 --> 00:04:38,250
+Sai Kingdom
+
+425
+00:04:38,210 --> 00:04:38,250
+Sai Kingdom
+
+426
+00:04:38,210 --> 00:04:38,250
+Shin Kingdom
+
+427
+00:04:38,210 --> 00:04:38,250
+Shin Kingdom
+
+428
+00:04:38,250 --> 00:04:38,290
+Sai Kingdom
+
+429
+00:04:38,250 --> 00:04:38,290
+Sai Kingdom
+
+430
+00:04:38,250 --> 00:04:38,290
+Shin Kingdom
+
+431
+00:04:38,250 --> 00:04:38,290
+Shin Kingdom
+
+432
+00:04:38,290 --> 00:04:38,340
+Sai Kingdom
+
+433
+00:04:38,290 --> 00:04:38,340
+Sai Kingdom
+
+434
+00:04:38,290 --> 00:04:38,340
+Shin Kingdom
+
+435
+00:04:38,290 --> 00:04:38,340
+Shin Kingdom
+
+436
+00:04:38,340 --> 00:04:38,380
+Sai Kingdom
+
+437
+00:04:38,340 --> 00:04:38,380
+Sai Kingdom
+
+438
+00:04:38,340 --> 00:04:38,380
+Shin Kingdom
+
+439
+00:04:38,340 --> 00:04:38,380
+Shin Kingdom
+
+440
+00:04:38,380 --> 00:04:38,420
+Sai Kingdom
+
+441
+00:04:38,380 --> 00:04:38,420
+Sai Kingdom
+
+442
+00:04:38,380 --> 00:04:38,420
+Shin Kingdom
+
+443
+00:04:38,380 --> 00:04:38,420
+Shin Kingdom
+
+444
+00:04:38,420 --> 00:04:38,460
+Sai Kingdom
+
+445
+00:04:38,420 --> 00:04:38,460
+Sai Kingdom
+
+446
+00:04:38,420 --> 00:04:38,460
+Shin Kingdom
+
+447
+00:04:38,420 --> 00:04:38,460
+Shin Kingdom
+
+448
+00:04:38,460 --> 00:04:38,500
+Sai Kingdom
+
+449
+00:04:38,460 --> 00:04:38,500
+Sai Kingdom
+
+450
+00:04:38,460 --> 00:04:38,500
+Shin Kingdom
+
+451
+00:04:38,460 --> 00:04:38,500
+Shin Kingdom
+
+452
+00:04:38,500 --> 00:04:38,540
+Sai Kingdom
+
+453
+00:04:38,500 --> 00:04:38,540
+Sai Kingdom
+
+454
+00:04:38,500 --> 00:04:38,540
+Shin Kingdom
+
+455
+00:04:38,500 --> 00:04:38,540
+Shin Kingdom
+
+456
+00:04:38,540 --> 00:04:38,590
+Sai Kingdom
+
+457
+00:04:38,540 --> 00:04:38,590
+Sai Kingdom
+
+458
+00:04:38,540 --> 00:04:38,590
+Shin Kingdom
+
+459
+00:04:38,540 --> 00:04:38,590
+Shin Kingdom
+
+460
+00:04:38,590 --> 00:04:38,630
+Sai Kingdom
+
+461
+00:04:38,590 --> 00:04:38,630
+Sai Kingdom
+
+462
+00:04:38,590 --> 00:04:38,630
+Shin Kingdom
+
+463
+00:04:38,590 --> 00:04:38,630
+Shin Kingdom
+
+464
+00:04:38,630 --> 00:04:38,670
+Sai Kingdom
+
+465
+00:04:38,630 --> 00:04:38,670
+Sai Kingdom
+
+466
+00:04:38,630 --> 00:04:38,670
+Shin Kingdom
+
+467
+00:04:38,630 --> 00:04:38,670
+Shin Kingdom
+
+468
+00:04:38,670 --> 00:04:38,710
+Sai Kingdom
+
+469
+00:04:38,670 --> 00:04:38,710
+Sai Kingdom
+
+470
+00:04:38,670 --> 00:04:38,710
+Shin Kingdom
+
+471
+00:04:38,670 --> 00:04:38,710
+Shin Kingdom
+
+472
+00:04:38,710 --> 00:04:38,750
+Sai Kingdom
+
+473
+00:04:38,710 --> 00:04:38,750
+Sai Kingdom
+
+474
+00:04:38,710 --> 00:04:38,750
+Shin Kingdom
+
+475
+00:04:38,710 --> 00:04:38,750
+Shin Kingdom
+
+476
+00:04:38,750 --> 00:04:38,790
+Sai Kingdom
+
+477
+00:04:38,750 --> 00:04:38,790
+Sai Kingdom
+
+478
+00:04:38,750 --> 00:04:38,790
+Shin Kingdom
+
+479
+00:04:38,750 --> 00:04:38,790
+Shin Kingdom
+
+480
+00:04:38,790 --> 00:04:38,840
+Sai Kingdom
+
+481
+00:04:38,790 --> 00:04:38,840
+Sai Kingdom
+
+482
+00:04:38,790 --> 00:04:38,840
+Shin Kingdom
+
+483
+00:04:38,790 --> 00:04:38,840
+Shin Kingdom
+
+484
+00:04:38,840 --> 00:04:38,880
+Sai Kingdom
+
+485
+00:04:38,840 --> 00:04:38,880
+Sai Kingdom
+
+486
+00:04:38,840 --> 00:04:38,880
+Shin Kingdom
+
+487
+00:04:38,840 --> 00:04:38,880
+Shin Kingdom
+
+488
+00:04:38,880 --> 00:04:38,920
+Sai Kingdom
+
+489
+00:04:38,880 --> 00:04:38,920
+Sai Kingdom
+
+490
+00:04:38,880 --> 00:04:38,920
+Shin Kingdom
+
+491
+00:04:38,880 --> 00:04:38,920
+Shin Kingdom
+
+492
+00:04:38,920 --> 00:04:38,960
+Sai Kingdom
+
+493
+00:04:38,920 --> 00:04:38,960
+Sai Kingdom
+
+494
+00:04:38,920 --> 00:04:38,960
+Shin Kingdom
+
+495
+00:04:38,920 --> 00:04:38,960
+Shin Kingdom
+
+496
+00:04:38,960 --> 00:04:39,000
+Sai Kingdom
+
+497
+00:04:38,960 --> 00:04:39,000
+Sai Kingdom
+
+498
+00:04:38,960 --> 00:04:39,000
+Shin Kingdom
+
+499
+00:04:38,960 --> 00:04:39,000
+Shin Kingdom
+
+500
+00:04:39,000 --> 00:04:39,050
+Sai Kingdom
+
+501
+00:04:39,000 --> 00:04:39,050
+Sai Kingdom
+
+502
+00:04:39,000 --> 00:04:39,050
+Shin Kingdom
+
+503
+00:04:39,000 --> 00:04:39,050
+Shin Kingdom
+
+504
+00:04:39,050 --> 00:04:39,090
+Sai Kingdom
+
+505
+00:04:39,050 --> 00:04:39,090
+Sai Kingdom
+
+506
+00:04:39,050 --> 00:04:39,090
+Shin Kingdom
+
+507
+00:04:39,050 --> 00:04:39,090
+Shin Kingdom
+
+508
+00:04:39,090 --> 00:04:39,130
+Sai Kingdom
+
+509
+00:04:39,090 --> 00:04:39,130
+Sai Kingdom
+
+510
+00:04:39,090 --> 00:04:39,130
+Shin Kingdom
+
+511
+00:04:39,090 --> 00:04:39,130
+Shin Kingdom
+
+512
+00:04:39,130 --> 00:04:39,170
+Sai Kingdom
+
+513
+00:04:39,130 --> 00:04:39,170
+Sai Kingdom
+
+514
+00:04:39,130 --> 00:04:39,170
+Shin Kingdom
+
+515
+00:04:39,130 --> 00:04:39,170
+Shin Kingdom
+
+516
+00:04:39,170 --> 00:04:39,210
+Sai Kingdom
+
+517
+00:04:39,170 --> 00:04:39,210
+Sai Kingdom
+
+518
+00:04:39,170 --> 00:04:39,210
+Shin Kingdom
+
+519
+00:04:39,170 --> 00:04:39,210
+Shin Kingdom
+
+520
+00:04:39,210 --> 00:04:39,250
+Sai Kingdom
+
+521
+00:04:39,210 --> 00:04:39,250
+Sai Kingdom
+
+522
+00:04:39,210 --> 00:04:39,250
+Shin Kingdom
+
+523
+00:04:39,210 --> 00:04:39,250
+Shin Kingdom
+
+524
+00:04:39,250 --> 00:04:39,300
+Sai Kingdom
+
+525
+00:04:39,250 --> 00:04:39,300
+Sai Kingdom
+
+526
+00:04:39,250 --> 00:04:39,300
+Shin Kingdom
+
+527
+00:04:39,250 --> 00:04:39,300
+Shin Kingdom
+
+528
+00:04:39,300 --> 00:04:39,340
+Sai Kingdom
+
+529
+00:04:39,300 --> 00:04:39,340
+Sai Kingdom
+
+530
+00:04:39,300 --> 00:04:39,340
+Shin Kingdom
+
+531
+00:04:39,300 --> 00:04:39,340
+Shin Kingdom
+
+532
+00:04:39,340 --> 00:04:39,380
+Sai Kingdom
+
+533
+00:04:39,340 --> 00:04:39,380
+Sai Kingdom
+
+534
+00:04:39,340 --> 00:04:39,380
+Shin Kingdom
+
+535
+00:04:39,340 --> 00:04:39,380
+Shin Kingdom
+
+536
+00:04:39,380 --> 00:04:39,420
+Sai Kingdom
+
+537
+00:04:39,380 --> 00:04:39,420
+Sai Kingdom
+
+538
+00:04:39,380 --> 00:04:39,420
+Shin Kingdom
+
+539
+00:04:39,380 --> 00:04:39,420
+Shin Kingdom
+
+540
+00:04:39,420 --> 00:04:39,460
+Sai Kingdom
+
+541
+00:04:39,420 --> 00:04:39,460
+Sai Kingdom
+
+542
+00:04:39,420 --> 00:04:39,460
+Shin Kingdom
+
+543
+00:04:39,420 --> 00:04:39,460
+Shin Kingdom
+
+544
+00:04:39,460 --> 00:04:39,500
+Sai Kingdom
+
+545
+00:04:39,460 --> 00:04:39,500
+Sai Kingdom
+
+546
+00:04:39,460 --> 00:04:39,500
+Shin Kingdom
+
+547
+00:04:39,460 --> 00:04:39,500
+Shin Kingdom
+
+548
+00:04:39,500 --> 00:04:39,550
+Sai Kingdom
+
+549
+00:04:39,500 --> 00:04:39,550
+Sai Kingdom
+
+550
+00:04:39,500 --> 00:04:39,550
+Shin Kingdom
+
+551
+00:04:39,500 --> 00:04:39,550
+Shin Kingdom
+
+552
+00:04:39,550 --> 00:04:39,590
+Sai Kingdom
+
+553
+00:04:39,550 --> 00:04:39,590
+Sai Kingdom
+
+554
+00:04:39,550 --> 00:04:39,590
+Shin Kingdom
+
+555
+00:04:39,550 --> 00:04:39,590
+Shin Kingdom
+
+556
+00:04:39,590 --> 00:04:39,630
+Sai Kingdom
+
+557
+00:04:39,590 --> 00:04:39,630
+Sai Kingdom
+
+558
+00:04:39,590 --> 00:04:39,630
+Shin Kingdom
+
+559
+00:04:39,590 --> 00:04:39,630
+Shin Kingdom
+
+560
+00:04:39,630 --> 00:04:39,670
+Sai Kingdom
+
+561
+00:04:39,630 --> 00:04:39,670
+Sai Kingdom
+
+562
+00:04:39,630 --> 00:04:39,670
+Shin Kingdom
+
+563
+00:04:39,630 --> 00:04:39,670
+Shin Kingdom
+
+564
+00:04:39,670 --> 00:04:39,710
+Sai Kingdom
+
+565
+00:04:39,670 --> 00:04:39,710
+Sai Kingdom
+
+566
+00:04:39,670 --> 00:04:39,710
+Shin Kingdom
+
+567
+00:04:39,670 --> 00:04:39,710
+Shin Kingdom
+
+568
+00:04:39,710 --> 00:04:39,750
+Sai Kingdom
+
+569
+00:04:39,710 --> 00:04:39,750
+Sai Kingdom
+
+570
+00:04:39,710 --> 00:04:39,750
+Shin Kingdom
+
+571
+00:04:39,710 --> 00:04:39,750
+Shin Kingdom
+
+572
+00:04:39,750 --> 00:04:39,800
+Sai Kingdom
+
+573
+00:04:39,750 --> 00:04:39,800
+Sai Kingdom
+
+574
+00:04:39,750 --> 00:04:39,800
+Shin Kingdom
+
+575
+00:04:39,750 --> 00:04:39,800
+Shin Kingdom
+
+576
+00:04:39,800 --> 00:04:39,840
+Sai Kingdom
+
+577
+00:04:39,800 --> 00:04:39,840
+Sai Kingdom
+
+578
+00:04:39,800 --> 00:04:39,840
+Shin Kingdom
+
+579
+00:04:39,800 --> 00:04:39,840
+Shin Kingdom
+
+580
+00:04:39,840 --> 00:04:39,880
+Sai Kingdom
+
+581
+00:04:39,840 --> 00:04:39,880
+Sai Kingdom
+
+582
+00:04:39,840 --> 00:04:39,880
+Shin Kingdom
+
+583
+00:04:39,840 --> 00:04:39,880
+Shin Kingdom
+
+584
+00:04:39,880 --> 00:04:39,920
+Sai Kingdom
+
+585
+00:04:39,880 --> 00:04:39,920
+Sai Kingdom
+
+586
+00:04:39,880 --> 00:04:39,920
+Shin Kingdom
+
+587
+00:04:39,880 --> 00:04:39,920
+Shin Kingdom
+
+588
+00:04:39,920 --> 00:04:39,960
+Sai Kingdom
+
+589
+00:04:39,920 --> 00:04:39,960
+Sai Kingdom
+
+590
+00:04:39,920 --> 00:04:39,960
+Shin Kingdom
+
+591
+00:04:39,920 --> 00:04:39,960
+Shin Kingdom
+
+592
+00:04:39,960 --> 00:04:40,000
+Sai Kingdom
+
+593
+00:04:39,960 --> 00:04:40,000
+Sai Kingdom
+
+594
+00:04:39,960 --> 00:04:40,000
+Shin Kingdom
+
+595
+00:04:39,960 --> 00:04:40,000
+Shin Kingdom
+
+596
+00:04:40,000 --> 00:04:40,050
+Sai Kingdom
+
+597
+00:04:40,000 --> 00:04:40,050
+Sai Kingdom
+
+598
+00:04:40,000 --> 00:04:40,050
+Shin Kingdom
+
+599
+00:04:40,000 --> 00:04:40,050
+Shin Kingdom
+
+600
+00:04:40,050 --> 00:04:40,090
+Sai Kingdom
+
+601
+00:04:40,050 --> 00:04:40,090
+Sai Kingdom
+
+602
+00:04:40,050 --> 00:04:40,090
+Shin Kingdom
+
+603
+00:04:40,050 --> 00:04:40,090
+Shin Kingdom
+
+604
+00:04:40,090 --> 00:04:40,130
+Sai Kingdom
+
+605
+00:04:40,090 --> 00:04:40,130
+Sai Kingdom
+
+606
+00:04:40,090 --> 00:04:40,130
+Shin Kingdom
+
+607
+00:04:40,090 --> 00:04:40,130
+Shin Kingdom
+
+608
+00:04:40,130 --> 00:04:40,170
+Sai Kingdom
+
+609
+00:04:40,130 --> 00:04:40,170
+Sai Kingdom
+
+610
+00:04:40,130 --> 00:04:40,170
+Shin Kingdom
+
+611
+00:04:40,130 --> 00:04:40,170
+Shin Kingdom
+
+612
+00:04:40,170 --> 00:04:40,210
+Sai Kingdom
+
+613
+00:04:40,170 --> 00:04:40,210
+Sai Kingdom
+
+614
+00:04:40,170 --> 00:04:40,210
+Shin Kingdom
+
+615
+00:04:40,170 --> 00:04:40,210
+Shin Kingdom
+
+616
+00:04:40,210 --> 00:04:40,250
+Sai Kingdom
+
+617
+00:04:40,210 --> 00:04:40,250
+Sai Kingdom
+
+618
+00:04:40,210 --> 00:04:40,250
+Shin Kingdom
+
+619
+00:04:40,210 --> 00:04:40,250
+Shin Kingdom
+
+620
+00:04:40,250 --> 00:04:40,300
+Sai Kingdom
+
+621
+00:04:40,250 --> 00:04:40,300
+Sai Kingdom
+
+622
+00:04:40,250 --> 00:04:40,300
+Shin Kingdom
+
+623
+00:04:40,250 --> 00:04:40,300
+Shin Kingdom
+
+624
+00:04:40,300 --> 00:04:40,340
+Sai Kingdom
+
+625
+00:04:40,300 --> 00:04:40,340
+Sai Kingdom
+
+626
+00:04:40,300 --> 00:04:40,340
+Shin Kingdom
+
+627
+00:04:40,300 --> 00:04:40,340
+Shin Kingdom
+
+628
+00:04:40,340 --> 00:04:40,380
+Sai Kingdom
+
+629
+00:04:40,340 --> 00:04:40,380
+Sai Kingdom
+
+630
+00:04:40,340 --> 00:04:40,380
+Shin Kingdom
+
+631
+00:04:40,340 --> 00:04:40,380
+Shin Kingdom
+
+632
+00:04:40,380 --> 00:04:40,420
+Sai Kingdom
+
+633
+00:04:40,380 --> 00:04:40,420
+Sai Kingdom
+
+634
+00:04:40,380 --> 00:04:40,420
+Shin Kingdom
+
+635
+00:04:40,380 --> 00:04:40,420
+Shin Kingdom
+
+636
+00:04:40,420 --> 00:04:40,460
+Sai Kingdom
+
+637
+00:04:40,420 --> 00:04:40,460
+Sai Kingdom
+
+638
+00:04:40,420 --> 00:04:40,460
+Shin Kingdom
+
+639
+00:04:40,420 --> 00:04:40,460
+Shin Kingdom
+
+640
+00:04:40,460 --> 00:04:40,510
+Sai Kingdom
+
+641
+00:04:40,460 --> 00:04:40,510
+Sai Kingdom
+
+642
+00:04:40,460 --> 00:04:40,510
+Shin Kingdom
+
+643
+00:04:40,460 --> 00:04:40,510
+Shin Kingdom
+
+644
+00:04:40,510 --> 00:04:40,550
+Sai Kingdom
+
+645
+00:04:40,510 --> 00:04:40,550
+Sai Kingdom
+
+646
+00:04:40,510 --> 00:04:40,550
+Shin Kingdom
+
+647
+00:04:40,510 --> 00:04:40,550
+Shin Kingdom
+
+648
+00:04:40,550 --> 00:04:40,590
+Sai Kingdom
+
+649
+00:04:40,550 --> 00:04:40,590
+Sai Kingdom
+
+650
+00:04:40,550 --> 00:04:40,590
+Shin Kingdom
+
+651
+00:04:40,550 --> 00:04:40,590
+Shin Kingdom
+
+652
+00:04:40,590 --> 00:04:40,630
+Sai Kingdom
+
+653
+00:04:40,590 --> 00:04:40,630
+Sai Kingdom
+
+654
+00:04:40,590 --> 00:04:40,630
+Shin Kingdom
+
+655
+00:04:40,590 --> 00:04:40,630
+Shin Kingdom
+
+656
+00:04:40,630 --> 00:04:40,670
+Sai Kingdom
+
+657
+00:04:40,630 --> 00:04:40,670
+Sai Kingdom
+
+658
+00:04:40,630 --> 00:04:40,670
+Shin Kingdom
+
+659
+00:04:40,630 --> 00:04:40,670
+Shin Kingdom
+
+660
+00:04:40,630 --> 00:04:44,070
+波風立てないことばかり考えていた
+
+661
+00:04:40,670 --> 00:04:40,710
+Sai Kingdom
+
+662
+00:04:40,670 --> 00:04:40,710
+Sai Kingdom
+
+663
+00:04:40,670 --> 00:04:40,710
+Shin Kingdom
+
+664
+00:04:40,670 --> 00:04:40,710
+Shin Kingdom
+
+665
+00:04:40,710 --> 00:04:40,760
+Sai Kingdom
+
+666
+00:04:40,710 --> 00:04:40,760
+Sai Kingdom
+
+667
+00:04:40,710 --> 00:04:40,760
+Shin Kingdom
+
+668
+00:04:40,710 --> 00:04:40,760
+Shin Kingdom
+
+669
+00:04:40,760 --> 00:04:40,800
+Sai Kingdom
+
+670
+00:04:40,760 --> 00:04:40,800
+Sai Kingdom
+
+671
+00:04:40,760 --> 00:04:40,800
+Shin Kingdom
+
+672
+00:04:40,760 --> 00:04:40,800
+Shin Kingdom
+
+673
+00:04:40,800 --> 00:04:40,840
+Sai Kingdom
+
+674
+00:04:40,800 --> 00:04:40,840
+Sai Kingdom
+
+675
+00:04:40,800 --> 00:04:40,840
+Shin Kingdom
+
+676
+00:04:40,800 --> 00:04:40,840
+Shin Kingdom
+
+677
+00:04:40,840 --> 00:04:40,880
+Sai Kingdom
+
+678
+00:04:40,840 --> 00:04:40,880
+Sai Kingdom
+
+679
+00:04:40,840 --> 00:04:40,880
+Shin Kingdom
+
+680
+00:04:40,840 --> 00:04:40,880
+Shin Kingdom
+
+681
+00:04:40,880 --> 00:04:40,920
+Sai Kingdom
+
+682
+00:04:40,880 --> 00:04:40,920
+Sai Kingdom
+
+683
+00:04:40,880 --> 00:04:40,920
+Shin Kingdom
+
+684
+00:04:40,880 --> 00:04:40,920
+Shin Kingdom
+
+685
+00:04:40,880 --> 00:04:44,010
+because he was determined to keep the peace.
+
+686
+00:04:40,920 --> 00:04:40,960
+Sai Kingdom
+
+687
+00:04:40,920 --> 00:04:40,960
+Sai Kingdom
+
+688
+00:04:40,920 --> 00:04:40,960
+Shin Kingdom
+
+689
+00:04:40,920 --> 00:04:40,960
+Shin Kingdom
+
+690
+00:04:40,960 --> 00:04:41,010
+Sai Kingdom
+
+691
+00:04:40,960 --> 00:04:41,010
+Sai Kingdom
+
+692
+00:04:40,960 --> 00:04:41,010
+Shin Kingdom
+
+693
+00:04:40,960 --> 00:04:41,010
+Shin Kingdom
+
+694
+00:04:41,010 --> 00:04:41,050
+Sai Kingdom
+
+695
+00:04:41,010 --> 00:04:41,050
+Sai Kingdom
+
+696
+00:04:41,010 --> 00:04:41,050
+Shin Kingdom
+
+697
+00:04:41,010 --> 00:04:41,050
+Shin Kingdom
+
+698
+00:04:42,130 --> 00:04:42,170
+Kai Empire
+
+699
+00:04:42,130 --> 00:04:42,170
+Kai Empire
+
+700
+00:04:42,130 --> 00:04:42,170
+Kouka Kingdom
+
+701
+00:04:42,130 --> 00:04:42,170
+Kouka Kingdom
+
+702
+00:04:42,170 --> 00:04:42,220
+Kai Empire
+
+703
+00:04:42,170 --> 00:04:42,220
+Kai Empire
+
+704
+00:04:42,170 --> 00:04:42,220
+Kouka Kingdom
+
+705
+00:04:42,170 --> 00:04:42,220
+Kouka Kingdom
+
+706
+00:04:42,220 --> 00:04:42,260
+Kai Empire
+
+707
+00:04:42,220 --> 00:04:42,260
+Kai Empire
+
+708
+00:04:42,220 --> 00:04:42,260
+Kouka Kingdom
+
+709
+00:04:42,220 --> 00:04:42,260
+Kouka Kingdom
+
+710
+00:04:42,260 --> 00:04:42,300
+Kai Empire
+
+711
+00:04:42,260 --> 00:04:42,300
+Kai Empire
+
+712
+00:04:42,260 --> 00:04:42,300
+Kouka Kingdom
+
+713
+00:04:42,260 --> 00:04:42,300
+Kouka Kingdom
+
+714
+00:04:42,300 --> 00:04:42,340
+Kai Empire
+
+715
+00:04:42,300 --> 00:04:42,340
+Kai Empire
+
+716
+00:04:42,300 --> 00:04:42,340
+Kouka Kingdom
+
+717
+00:04:42,300 --> 00:04:42,340
+Kouka Kingdom
+
+718
+00:04:42,340 --> 00:04:42,380
+Kai Empire
+
+719
+00:04:42,340 --> 00:04:42,380
+Kai Empire
+
+720
+00:04:42,340 --> 00:04:42,380
+Kouka Kingdom
+
+721
+00:04:42,340 --> 00:04:42,380
+Kouka Kingdom
+
+722
+00:04:42,380 --> 00:04:42,420
+Kai Empire
+
+723
+00:04:42,380 --> 00:04:42,420
+Kai Empire
+
+724
+00:04:42,380 --> 00:04:42,420
+Kouka Kingdom
+
+725
+00:04:42,380 --> 00:04:42,420
+Kouka Kingdom
+
+726
+00:04:42,420 --> 00:04:42,470
+Kai Empire
+
+727
+00:04:42,420 --> 00:04:42,470
+Kai Empire
+
+728
+00:04:42,420 --> 00:04:42,470
+Kouka Kingdom
+
+729
+00:04:42,420 --> 00:04:42,470
+Kouka Kingdom
+
+730
+00:04:42,470 --> 00:04:42,510
+Kai Empire
+
+731
+00:04:42,470 --> 00:04:42,510
+Kai Empire
+
+732
+00:04:42,470 --> 00:04:42,510
+Kouka Kingdom
+
+733
+00:04:42,470 --> 00:04:42,510
+Kouka Kingdom
+
+734
+00:04:42,510 --> 00:04:42,550
+Kai Empire
+
+735
+00:04:42,510 --> 00:04:42,550
+Kai Empire
+
+736
+00:04:42,510 --> 00:04:42,550
+Kouka Kingdom
+
+737
+00:04:42,510 --> 00:04:42,550
+Kouka Kingdom
+
+738
+00:04:42,550 --> 00:04:42,590
+Kai Empire
+
+739
+00:04:42,550 --> 00:04:42,590
+Kai Empire
+
+740
+00:04:42,550 --> 00:04:42,590
+Kouka Kingdom
+
+741
+00:04:42,550 --> 00:04:42,590
+Kouka Kingdom
+
+742
+00:04:42,590 --> 00:04:42,630
+Kai Empire
+
+743
+00:04:42,590 --> 00:04:42,630
+Kai Empire
+
+744
+00:04:42,590 --> 00:04:42,630
+Kouka Kingdom
+
+745
+00:04:42,590 --> 00:04:42,630
+Kouka Kingdom
+
+746
+00:04:42,630 --> 00:04:42,670
+Kai Empire
+
+747
+00:04:42,630 --> 00:04:42,670
+Kai Empire
+
+748
+00:04:42,630 --> 00:04:42,670
+Kouka Kingdom
+
+749
+00:04:42,630 --> 00:04:42,670
+Kouka Kingdom
+
+750
+00:04:42,670 --> 00:04:42,720
+Kai Empire
+
+751
+00:04:42,670 --> 00:04:42,720
+Kai Empire
+
+752
+00:04:42,670 --> 00:04:42,720
+Kouka Kingdom
+
+753
+00:04:42,670 --> 00:04:42,720
+Kouka Kingdom
+
+754
+00:04:42,720 --> 00:04:42,760
+Kai Empire
+
+755
+00:04:42,720 --> 00:04:42,760
+Kai Empire
+
+756
+00:04:42,720 --> 00:04:42,760
+Kouka Kingdom
+
+757
+00:04:42,720 --> 00:04:42,760
+Kouka Kingdom
+
+758
+00:04:42,760 --> 00:04:42,800
+Kai Empire
+
+759
+00:04:42,760 --> 00:04:42,800
+Kai Empire
+
+760
+00:04:42,760 --> 00:04:42,800
+Kouka Kingdom
+
+761
+00:04:42,760 --> 00:04:42,800
+Kouka Kingdom
+
+762
+00:04:42,800 --> 00:04:42,840
+Kai Empire
+
+763
+00:04:42,800 --> 00:04:42,840
+Kai Empire
+
+764
+00:04:42,800 --> 00:04:42,840
+Kouka Kingdom
+
+765
+00:04:42,800 --> 00:04:42,840
+Kouka Kingdom
+
+766
+00:04:42,840 --> 00:04:42,880
+Kai Empire
+
+767
+00:04:42,840 --> 00:04:42,880
+Kai Empire
+
+768
+00:04:42,840 --> 00:04:42,880
+Kouka Kingdom
+
+769
+00:04:42,840 --> 00:04:42,880
+Kouka Kingdom
+
+770
+00:04:42,880 --> 00:04:42,920
+Kai Empire
+
+771
+00:04:42,880 --> 00:04:42,920
+Kai Empire
+
+772
+00:04:42,880 --> 00:04:42,920
+Kouka Kingdom
+
+773
+00:04:42,880 --> 00:04:42,920
+Kouka Kingdom
+
+774
+00:04:42,920 --> 00:04:42,970
+Kai Empire
+
+775
+00:04:42,920 --> 00:04:42,970
+Kai Empire
+
+776
+00:04:42,920 --> 00:04:42,970
+Kouka Kingdom
+
+777
+00:04:42,920 --> 00:04:42,970
+Kouka Kingdom
+
+778
+00:04:42,970 --> 00:04:43,010
+Kai Empire
+
+779
+00:04:42,970 --> 00:04:43,010
+Kai Empire
+
+780
+00:04:42,970 --> 00:04:43,010
+Kouka Kingdom
+
+781
+00:04:42,970 --> 00:04:43,010
+Kouka Kingdom
+
+782
+00:04:43,010 --> 00:04:43,050
+Kai Empire
+
+783
+00:04:43,010 --> 00:04:43,050
+Kai Empire
+
+784
+00:04:43,010 --> 00:04:43,050
+Kouka Kingdom
+
+785
+00:04:43,010 --> 00:04:43,050
+Kouka Kingdom
+
+786
+00:04:43,050 --> 00:04:43,090
+Kai Empire
+
+787
+00:04:43,050 --> 00:04:43,090
+Kai Empire
+
+788
+00:04:43,050 --> 00:04:43,090
+Kouka Kingdom
+
+789
+00:04:43,050 --> 00:04:43,090
+Kouka Kingdom
+
+790
+00:04:43,090 --> 00:04:43,130
+Kai Empire
+
+791
+00:04:43,090 --> 00:04:43,130
+Kai Empire
+
+792
+00:04:43,090 --> 00:04:43,130
+Kouka Kingdom
+
+793
+00:04:43,090 --> 00:04:43,130
+Kouka Kingdom
+
+794
+00:04:43,130 --> 00:04:43,170
+Kai Empire
+
+795
+00:04:43,130 --> 00:04:43,170
+Kai Empire
+
+796
+00:04:43,130 --> 00:04:43,170
+Kouka Kingdom
+
+797
+00:04:43,130 --> 00:04:43,170
+Kouka Kingdom
+
+798
+00:04:43,170 --> 00:04:43,220
+Kai Empire
+
+799
+00:04:43,170 --> 00:04:43,220
+Kai Empire
+
+800
+00:04:43,170 --> 00:04:43,220
+Kouka Kingdom
+
+801
+00:04:43,170 --> 00:04:43,220
+Kouka Kingdom
+
+802
+00:04:43,220 --> 00:04:43,260
+Kai Empire
+
+803
+00:04:43,220 --> 00:04:43,260
+Kai Empire
+
+804
+00:04:43,220 --> 00:04:43,260
+Kouka Kingdom
+
+805
+00:04:43,220 --> 00:04:43,260
+Kouka Kingdom
+
+806
+00:04:43,260 --> 00:04:43,300
+Kai Empire
+
+807
+00:04:43,260 --> 00:04:43,300
+Kai Empire
+
+808
+00:04:43,260 --> 00:04:43,300
+Kouka Kingdom
+
+809
+00:04:43,260 --> 00:04:43,300
+Kouka Kingdom
+
+810
+00:04:43,300 --> 00:04:43,340
+Kai Empire
+
+811
+00:04:43,300 --> 00:04:43,340
+Kai Empire
+
+812
+00:04:43,300 --> 00:04:43,340
+Kouka Kingdom
+
+813
+00:04:43,300 --> 00:04:43,340
+Kouka Kingdom
+
+814
+00:04:43,340 --> 00:04:43,380
+Kai Empire
+
+815
+00:04:43,340 --> 00:04:43,380
+Kai Empire
+
+816
+00:04:43,340 --> 00:04:43,380
+Kouka Kingdom
+
+817
+00:04:43,340 --> 00:04:43,380
+Kouka Kingdom
+
+818
+00:04:43,380 --> 00:04:43,420
+Kai Empire
+
+819
+00:04:43,380 --> 00:04:43,420
+Kai Empire
+
+820
+00:04:43,380 --> 00:04:43,420
+Kouka Kingdom
+
+821
+00:04:43,380 --> 00:04:43,420
+Kouka Kingdom
+
+822
+00:04:43,420 --> 00:04:43,470
+Kai Empire
+
+823
+00:04:43,420 --> 00:04:43,470
+Kai Empire
+
+824
+00:04:43,420 --> 00:04:43,470
+Kouka Kingdom
+
+825
+00:04:43,420 --> 00:04:43,470
+Kouka Kingdom
+
+826
+00:04:43,470 --> 00:04:43,510
+Kai Empire
+
+827
+00:04:43,470 --> 00:04:43,510
+Kai Empire
+
+828
+00:04:43,470 --> 00:04:43,510
+Kouka Kingdom
+
+829
+00:04:43,470 --> 00:04:43,510
+Kouka Kingdom
+
+830
+00:04:43,510 --> 00:04:43,550
+Kai Empire
+
+831
+00:04:43,510 --> 00:04:43,550
+Kai Empire
+
+832
+00:04:43,510 --> 00:04:43,550
+Kouka Kingdom
+
+833
+00:04:43,510 --> 00:04:43,550
+Kouka Kingdom
+
+834
+00:04:43,550 --> 00:04:43,590
+Kai Empire
+
+835
+00:04:43,550 --> 00:04:43,590
+Kai Empire
+
+836
+00:04:43,550 --> 00:04:43,590
+Kouka Kingdom
+
+837
+00:04:43,550 --> 00:04:43,590
+Kouka Kingdom
+
+838
+00:04:43,590 --> 00:04:43,630
+Kai Empire
+
+839
+00:04:43,590 --> 00:04:43,630
+Kai Empire
+
+840
+00:04:43,590 --> 00:04:43,630
+Kouka Kingdom
+
+841
+00:04:43,590 --> 00:04:43,630
+Kouka Kingdom
+
+842
+00:04:43,630 --> 00:04:43,670
+Kai Empire
+
+843
+00:04:43,630 --> 00:04:43,670
+Kai Empire
+
+844
+00:04:43,630 --> 00:04:43,670
+Kouka Kingdom
+
+845
+00:04:43,630 --> 00:04:43,670
+Kouka Kingdom
+
+846
+00:04:43,670 --> 00:04:43,720
+Kai Empire
+
+847
+00:04:43,670 --> 00:04:43,720
+Kai Empire
+
+848
+00:04:43,670 --> 00:04:43,720
+Kouka Kingdom
+
+849
+00:04:43,670 --> 00:04:43,720
+Kouka Kingdom
+
+850
+00:04:43,720 --> 00:04:43,760
+Kai Empire
+
+851
+00:04:43,720 --> 00:04:43,760
+Kai Empire
+
+852
+00:04:43,720 --> 00:04:43,760
+Kouka Kingdom
+
+853
+00:04:43,720 --> 00:04:43,760
+Kouka Kingdom
+
+854
+00:04:43,760 --> 00:04:43,800
+Kai Empire
+
+855
+00:04:43,760 --> 00:04:43,800
+Kai Empire
+
+856
+00:04:43,760 --> 00:04:43,800
+Kouka Kingdom
+
+857
+00:04:43,760 --> 00:04:43,800
+Kouka Kingdom
+
+858
+00:04:43,800 --> 00:04:43,840
+Kai Empire
+
+859
+00:04:43,800 --> 00:04:43,840
+Kai Empire
+
+860
+00:04:43,800 --> 00:04:43,840
+Kouka Kingdom
+
+861
+00:04:43,800 --> 00:04:43,840
+Kouka Kingdom
+
+862
+00:04:43,840 --> 00:04:43,880
+Kai Empire
+
+863
+00:04:43,840 --> 00:04:43,880
+Kai Empire
+
+864
+00:04:43,840 --> 00:04:43,880
+Kouka Kingdom
+
+865
+00:04:43,840 --> 00:04:43,880
+Kouka Kingdom
+
+866
+00:04:43,880 --> 00:04:43,930
+Kai Empire
+
+867
+00:04:43,880 --> 00:04:43,930
+Kai Empire
+
+868
+00:04:43,880 --> 00:04:43,930
+Kouka Kingdom
+
+869
+00:04:43,880 --> 00:04:43,930
+Kouka Kingdom
+
+870
+00:04:43,930 --> 00:04:43,970
+Kai Empire
+
+871
+00:04:43,930 --> 00:04:43,970
+Kai Empire
+
+872
+00:04:43,930 --> 00:04:43,970
+Kouka Kingdom
+
+873
+00:04:43,930 --> 00:04:43,970
+Kouka Kingdom
+
+874
+00:04:43,970 --> 00:04:44,010
+Kai Empire
+
+875
+00:04:43,970 --> 00:04:44,010
+Kai Empire
+
+876
+00:04:43,970 --> 00:04:44,010
+Kouka Kingdom
+
+877
+00:04:43,970 --> 00:04:44,010
+Kouka Kingdom
+
+878
+00:04:44,610 --> 00:04:49,940
+五部族はバラバラとなり 国は乱れるばかり
+
+879
+00:04:44,680 --> 00:04:49,680
+The five tribes were divided,
+and the kingdom fell into chaos.
+
+880
+00:04:49,940 --> 00:04:53,700
+我々弱い民も救ってはくれない
+
+881
+00:04:50,220 --> 00:04:53,230
+He wouldn't even save weak commoners like us.
+
+882
+00:04:53,700 --> 00:04:57,000
+あれは 誰のための王だったのか
+
+883
+00:04:53,810 --> 00:04:57,190
+Whose king was he supposed to be?
+
+884
+00:04:58,300 --> 00:05:02,580
+今度の王様は 良い方だといい
+
+885
+00:04:58,360 --> 00:05:02,610
+I hope the new king is a good man.
+
+886
+00:05:03,320 --> 00:05:07,340
+この国を 変えてくださる方だといい
+
+887
+00:05:03,400 --> 00:05:07,570
+I hope he changes this kingdom.
+
+888
+00:05:10,060 --> 00:05:12,770
+娘さん ありがとう
+
+889
+00:05:10,120 --> 00:05:12,160
+Thank you, miss.
+
+890
+00:05:12,770 --> 00:05:17,280
+誰かに触れてもらったのは 何年ぶりか
+
+891
+00:05:12,910 --> 00:05:16,790
+It's been years since someone touched me.
+
+892
+00:05:17,280 --> 00:05:18,540
+いいえ
+
+893
+00:05:17,420 --> 00:05:18,290
+It's all right.
+
+894
+00:05:19,140 --> 00:05:20,910
+どうか お元気で
+
+895
+00:05:19,170 --> 00:05:21,300
+Please take care.
+
+896
+00:05:38,320 --> 00:05:42,100
+わ 私ちょっとご不浄に ついてこないでね
+
+897
+00:05:38,400 --> 00:05:40,770
+I need to use the bathroom.
+
+898
+00:05:40,770 --> 00:05:42,360
+Don't follow me.
+
+899
+00:05:49,240 --> 00:05:52,080
+I couldn't say anything.
+
+900
+00:05:49,280 --> 00:05:51,990
+俺 何も言えなかった
+
+901
+00:05:53,720 --> 00:05:56,830
+俺もイル王をよく思ってない人間だからさ
+
+902
+00:05:53,790 --> 00:05:56,870
+I didn't think highly of King Il, either.
+
+903
+00:05:57,620 --> 00:06:01,590
+But for Yona, he was her only flesh and blood.
+
+904
+00:05:57,630 --> 00:06:01,500
+でも ヨナにはたった一人の肉親なんだよね
+
+905
+00:06:02,320 --> 00:06:05,990
+先王の死を悼む者は 恐らく誰もいまい
+
+906
+00:06:02,420 --> 00:06:05,970
+It's likely that no one grieves for the late king.
+
+907
+00:06:06,740 --> 00:06:10,300
+歴史には 愚かな王であったと記されるだろう
+
+908
+00:06:06,760 --> 00:06:10,260
+He'll go down in history as a foolish man.
+
+909
+00:06:11,060 --> 00:06:14,920
+たった一人の姫など 気にかける者は誰も
+
+910
+00:06:11,100 --> 00:06:15,100
+No one cares about a single princess.
+
+911
+00:06:14,920 --> 00:06:16,260
+確かに
+
+912
+00:06:15,100 --> 00:06:16,310
+You're right.
+
+913
+00:06:17,210 --> 00:06:21,790
+武器も争いもなく 誰も傷つかない世界なんて
+
+914
+00:06:17,230 --> 00:06:19,480
+A world without weaponry and war,
+
+915
+00:06:19,480 --> 00:06:23,770
+where no one gets hurt, is just a pipe dream.
+
+916
+00:06:21,790 --> 00:06:23,920
+夢物語でしかない
+
+917
+00:06:24,660 --> 00:06:25,830
+だが
+
+918
+00:06:24,690 --> 00:06:29,160
+But I could never write off the king as a fool because of his unwavering belief...
+
+919
+00:06:25,830 --> 00:06:29,100
+それが理想だと言って揺るがなかった王を
+
+920
+00:06:29,100 --> 00:06:31,760
+俺は愚かだとどうしても思えなかった
+
+921
+00:06:29,160 --> 00:06:31,700
+that such a world would be ideal.
+
+922
+00:06:33,060 --> 00:06:36,190
+己の傷をそっと隠した背中を
+
+923
+00:06:33,080 --> 00:06:35,950
+He hid his own wounds.
+
+924
+00:06:36,190 --> 00:06:39,390
+臆病だと どうしても思えなかった
+
+925
+00:06:36,450 --> 00:06:39,540
+I didn't see him as a coward at all.
+
+926
+00:06:41,210 --> 00:06:45,320
+愚かだと思う主に 俺は従ったりしない
+
+927
+00:06:41,290 --> 00:06:45,250
+I would never serve a fool.
+
+928
+00:06:47,740 --> 00:06:52,830
+緋龍城で守り切れなかったこと 俺は生涯悔やむだろう
+
+929
+00:06:47,760 --> 00:06:50,180
+I'll probably regret my inability to protect him at Hiryuu Castle...
+
+930
+00:06:50,890 --> 00:06:52,680
+for the rest of my life.
+
+931
+00:06:55,610 --> 00:06:57,900
+雷獣は認めてたんだ
+
+932
+00:06:55,770 --> 00:06:57,680
+You acknowledged King Il as your master,
+
+933
+00:06:57,900 --> 00:07:02,790
+ヨナの父とかそういうのを別にして イル王を主だと
+
+934
+00:06:58,100 --> 00:07:02,650
+regardless of the fact that he was Yona's father.
+
+935
+00:07:03,080 --> 00:07:04,590
+当たり前だ
+
+936
+00:07:03,230 --> 00:07:04,270
+Of course.
+
+937
+00:07:05,060 --> 00:07:06,990
+忘れないでいて
+
+938
+00:07:05,070 --> 00:07:06,440
+Don't forget.
+
+939
+00:07:06,990 --> 00:07:12,340
+お前だけは 父上とその娘を 忘れないでいて
+
+940
+00:07:07,150 --> 00:07:11,280
+I want you to remember my father and his daughter.
+
+941
+00:07:11,280 --> 00:07:12,370
+I want you to remember my father and his daughter.
+
+942
+00:07:13,300 --> 00:07:14,700
+忘れるものか
+
+943
+00:07:13,320 --> 00:07:14,990
+I could never forget.
+
+944
+00:07:15,700 --> 00:07:20,100
+この国で最も華やかな娘だった姫は 今は一人
+
+945
+00:07:15,790 --> 00:07:20,120
+The princess, once the kingdom's
+most beautiful girl, is now alone.
+
+946
+00:07:20,790 --> 00:07:23,380
+She has nothing but herself.
+
+947
+00:07:20,830 --> 00:07:23,430
+その身以外 何も持っていない
+
+948
+00:07:24,410 --> 00:07:31,060
+ただ 愛していた父との繋がりが
+己の持つ たった一つの誇りなのだ
+
+949
+00:07:24,420 --> 00:07:31,130
+The only pride she has left is her connection to the father she loved.
+
+950
+00:08:05,190 --> 00:08:07,240
+強く ならなきゃ
+
+951
+00:08:05,250 --> 00:08:07,380
+I have to become stronger.
+
+952
+00:08:09,520 --> 00:08:11,010
+強く ならなきゃ
+
+953
+00:08:09,550 --> 00:08:10,920
+I have to become stronger...
+
+954
+00:08:13,230 --> 00:08:17,060
+皆や ハクを失わないために
+
+955
+00:08:13,300 --> 00:08:17,010
+so I don't lose Hak or anyone else.
+
+956
+00:08:19,300 --> 00:08:21,120
+私にできることは...
+
+957
+00:08:19,390 --> 00:08:20,980
+What else can I do?
+
+958
+00:08:22,180 --> 00:08:22,980
+Yona...
+
+959
+00:08:22,190 --> 00:08:23,230
+ヨナ
+
+960
+00:08:25,650 --> 00:08:30,190
+Don't. You mustn't handle weapons.
+
+961
+00:08:25,790 --> 00:08:30,230
+ダメだよ 武器など 決して触れてはならない
+
+962
+00:08:41,580 --> 00:08:42,830
+Father!
+
+963
+00:08:41,700 --> 00:08:42,880
+父上
+
+964
+00:08:49,170 --> 00:08:53,670
+So this is Chishin, capital of the Earth Tribe.
+
+965
+00:08:49,210 --> 00:08:53,810
+ここが地心 地の部族の都ですか
+
+966
+00:09:00,180 --> 00:09:02,060
+Lord Geun-tae!
+
+967
+00:09:00,190 --> 00:09:02,100
+グンテ様
+
+968
+00:09:03,140 --> 00:09:04,760
+イグンテ様
+
+969
+00:09:03,140 --> 00:09:04,810
+Lord Li Geun-tae!
+
+970
+00:09:04,760 --> 00:09:08,210
+なんだよ うるせぇな チョルラン
+
+971
+00:09:04,810 --> 00:09:08,150
+What is it? You're too loud, Cheol-ran.
+
+972
+00:09:08,520 --> 00:09:14,860
+A general shouldn't lounge around
+dressed like this during the daytime.
+
+973
+00:09:08,710 --> 00:09:11,940
+ダメですよ 将軍ともあろうお方が
+
+974
+00:09:11,940 --> 00:09:14,880
+昼間からそのような格好でゴロゴロと
+
+975
+00:09:14,860 --> 00:09:17,450
+I'm still the same man, no matter what I wear.
+
+976
+00:09:14,880 --> 00:09:19,390
+どんな格好でも俺は俺だ 誰にも迷惑かけとらん
+
+977
+00:09:17,450 --> 00:09:19,330
+I'm not bothering anyone.
+
+978
+00:09:19,490 --> 00:09:24,660
+Live as the wind blows.
+
+979
+00:09:19,830 --> 00:09:21,740
+Besides, in the Wind Tribe,
+
+980
+00:09:19,940 --> 00:09:24,120
+それに 風の部族などは ハクといい 今の若僧といい
+
+981
+00:09:21,740 --> 00:09:25,960
+Hak and the youngsters wear
+practically anything they want.
+
+982
+00:09:24,120 --> 00:09:26,140
+適当な服着ているぞ
+
+983
+00:09:24,660 --> 00:09:26,330
+Ambition? What's that?
+
+984
+00:09:26,330 --> 00:09:28,580
+Does it taste good?
+
+985
+00:09:26,480 --> 00:09:28,390
+あそこはもういいんですよ
+
+986
+00:09:26,500 --> 00:09:28,580
+Don't worry about them.
+
+987
+00:09:30,670 --> 00:09:33,800
+The Earth Tribe's been so dull lately.
+
+988
+00:09:30,700 --> 00:09:34,100
+地の部族は今 何かとぱっとしねぇな
+
+989
+00:09:34,420 --> 00:09:37,930
+I hardly see any merchants or
+travelers from other kingdoms,
+
+990
+00:09:34,460 --> 00:09:37,940
+他国からの商人や客もさっぱり見かけねぇし
+
+991
+00:09:37,930 --> 00:09:40,470
+and our mineral resources are running low.
+
+992
+00:09:37,940 --> 00:09:40,530
+鉱物資源は先細りだし
+
+993
+00:09:41,680 --> 00:09:44,390
+Things were good during King Ju-nam's reign!
+
+994
+00:09:41,720 --> 00:09:44,660
+先々代のジュナム王の時代はよかった
+
+995
+00:09:44,660 --> 00:09:46,720
+都には人が溢れ
+
+996
+00:09:44,850 --> 00:09:46,850
+The capital was full of people.
+
+997
+00:09:46,720 --> 00:09:48,010
+戦となれば
+
+998
+00:09:46,850 --> 00:09:49,560
+During times of war, under the Kouka Kingdom's banner,
+
+999
+00:09:48,010 --> 00:09:52,770
+高華の旗の下 俺は襲い来る敵を鬼神のごとき強さで
+
+1000
+00:09:49,560 --> 00:09:52,730
+I struck down attackers with the strength of a fierce god!
+
+1001
+00:09:52,730 --> 00:09:54,150
+It can't be helped.
+
+1002
+00:09:52,770 --> 00:09:54,110
+仕方ないでしょう
+
+1003
+00:09:55,210 --> 00:09:58,890
+イル陛下の時代に 戦争は禁じられたわけですから
+
+1004
+00:09:55,280 --> 00:09:59,110
+Under King Il's reign, war was forbidden.
+
+1005
+00:10:00,070 --> 00:10:02,450
+Besides, you call yourself a fierce god,
+
+1006
+00:10:00,130 --> 00:10:02,430
+大体 鬼神って言いますけど
+
+1007
+00:10:02,430 --> 00:10:08,030
+グンテ様は試合で雷獣と呼ばれたど小僧の若者に負けたじゃないですか
+
+1008
+00:10:02,450 --> 00:10:07,410
+but you were defeated by the youngster known as the Thunder Beast.
+
+1009
+00:10:07,920 --> 00:10:10,540
+Very funny, Cheol!
+
+1010
+00:10:08,030 --> 00:10:10,320
+可愛いこと言うじゃねぇか チョルン
+
+1011
+00:10:10,320 --> 00:10:14,260
+そうなんだよ 体鈍ってから こんな非力になっちまって
+
+1012
+00:10:10,540 --> 00:10:14,300
+That's right. I've grown powerless because I'm so out of shape.
+
+1013
+00:10:14,260 --> 00:10:17,590
+すみません 突っ込みが過ぎました
+
+1014
+00:10:14,300 --> 00:10:17,340
+I'm sorry. I went too far.
+
+1015
+00:10:17,340 --> 00:10:19,640
+Lord Geun-tae! Lord Li Geun-tae!
+
+1016
+00:10:17,590 --> 00:10:19,610
+グンテ様 イグンテ様
+
+1017
+00:10:19,610 --> 00:10:22,690
+今度はなんだ 髭でも整えろってか
+
+1018
+00:10:19,640 --> 00:10:22,720
+What now? Are you going to tell me to shave?
+
+1019
+00:10:22,690 --> 00:10:26,630
+その 陛下が スウォン陛下がお見えになりました
+
+1020
+00:10:22,720 --> 00:10:24,430
+The king...
+
+1021
+00:10:24,430 --> 00:10:26,680
+King Su-won has arrived!
+
+1022
+00:10:26,680 --> 00:10:27,310
+Huh?
+
+1023
+00:10:31,980 --> 00:10:33,690
+It's really him.
+
+1024
+00:10:32,140 --> 00:10:33,700
+本物じゃねか
+
+1025
+00:10:33,690 --> 00:10:35,570
+This is why I warned you!
+
+1026
+00:10:33,700 --> 00:10:37,760
+だから言ったじゃないですか
+早くお着替えになって下さい
+
+1027
+00:10:35,570 --> 00:10:37,700
+Hurry and get changed.
+
+1028
+00:10:37,700 --> 00:10:42,320
+You can't stay dressed like this.
+The Sky General, Lord Han Ju-doh, is here too.
+
+1029
+00:10:37,760 --> 00:10:42,790
+まずいですよ ほら 空の将軍ハンジュド様もおいてですし
+
+1030
+00:10:42,790 --> 00:10:46,720
+なんでいきなり俺んとこ来るんだ こんな少人数で
+
+1031
+00:10:42,870 --> 00:10:46,660
+Why did they come to see me with so few people?
+
+1032
+00:10:46,660 --> 00:10:48,040
+I don't know!
+
+1033
+00:10:46,720 --> 00:10:48,590
+知りませんよ
+
+1034
+00:10:48,920 --> 00:10:52,460
+戴冠式以来ですね グンテ将軍
+
+1035
+00:10:48,960 --> 00:10:52,040
+I haven't seen you since the coronation,
+General Geun-tae.
+
+1036
+00:10:52,460 --> 00:10:53,940
+お元気でしたか
+
+1037
+00:10:52,590 --> 00:10:53,920
+Have you been well?
+
+1038
+00:10:53,920 --> 00:10:54,550
+Yes, sir.
+
+1039
+00:10:53,940 --> 00:10:55,060
+はい
+
+1040
+00:10:55,370 --> 00:10:56,630
+スウォン
+
+1041
+00:10:55,500 --> 00:10:56,380
+Su-won.
+
+1042
+00:10:56,970 --> 00:11:00,970
+つい先だって 即位したばかりの弱冠十八の王
+
+1043
+00:10:57,010 --> 00:11:01,010
+The eighteen-year-old king, only recently crowned.
+
+1044
+00:11:02,140 --> 00:11:06,520
+Though there are some mysteries
+surrounding the death of King Il
+
+1045
+00:11:02,260 --> 00:11:03,900
+先王イル崩御
+
+1046
+00:11:03,900 --> 00:11:08,610
+ヨナ姫 ハク将軍失踪については
+不可解な点があるものの
+
+1047
+00:11:06,520 --> 00:11:08,850
+and the disappearances of
+Princess Yona and General Hak,
+
+1048
+00:11:08,610 --> 00:11:12,500
+俺が心の師と仰ぐ ユホン様の嫡男
+
+1049
+00:11:08,850 --> 00:11:12,440
+he is still the heir of Lord Yu-hon,
+the man I revered as my mentor.
+
+1050
+00:11:12,770 --> 00:11:17,300
+あの グンテ将軍 お願いがあるんですが
+
+1051
+00:11:12,810 --> 00:11:17,360
+General Geun-tae, I have a favor to ask of you.
+
+1052
+00:11:17,300 --> 00:11:18,300
+はい
+
+1053
+00:11:17,360 --> 00:11:18,320
+Yes, sir.
+
+1054
+00:11:18,300 --> 00:11:22,630
+将軍へのお願いですからね きっと極秘の任務ですよ
+
+1055
+00:11:18,320 --> 00:11:20,530
+He needs a favor from a general.
+
+1056
+00:11:20,530 --> 00:11:22,570
+It must be a top-secret mission.
+
+1057
+00:11:22,630 --> 00:11:28,140
+長旅で喉が渇きました お茶を一杯頂けませんか
+
+1058
+00:11:22,870 --> 00:11:25,490
+I'm thirsty from my long journey.
+
+1059
+00:11:25,490 --> 00:11:28,080
+May I have a cup of tea?
+
+1060
+00:11:28,080 --> 00:11:29,370
+Huh?
+
+1061
+00:11:36,050 --> 00:11:38,340
+This tea is wonderfully fragrant.
+
+1062
+00:11:36,190 --> 00:11:38,680
+凄く香りのよいお茶ですね
+
+1063
+00:11:38,680 --> 00:11:42,120
+女房自慢の茶畑で取れた茶ですよ
+
+1064
+00:11:38,760 --> 00:11:42,090
+The leaves are from my wife's
+prized tea plantation,
+
+1065
+00:11:42,090 --> 00:11:45,100
+though it is too fragrant for me, personally.
+
+1066
+00:11:42,120 --> 00:11:45,160
+俺は香りがきつすぎて苦手ですがね
+
+1067
+00:11:46,100 --> 00:11:47,570
+花の香りだ
+
+1068
+00:11:46,140 --> 00:11:47,680
+It smells of flowers.
+
+1069
+00:11:47,920 --> 00:11:50,700
+女房が趣味で作ってるやつですから
+
+1070
+00:11:47,930 --> 00:11:50,770
+It's my wife's hobby.
+
+1071
+00:11:50,700 --> 00:11:53,520
+妙な味でも勘弁してやってください
+
+1072
+00:11:50,770 --> 00:11:53,440
+Please forgive any strange flavors.
+
+1073
+00:11:53,440 --> 00:11:56,730
+Really? I like it.
+
+1074
+00:11:53,520 --> 00:11:56,790
+そうですか 私は好きですよ
+
+1075
+00:11:56,730 --> 00:11:58,650
+Don't you agree, General Ju-doh?
+
+1076
+00:11:56,790 --> 00:11:58,500
+ね ジュド将軍
+
+1077
+00:11:58,500 --> 00:12:02,380
+俺は茶の味に さほど拘りはないですが
+
+1078
+00:11:58,650 --> 00:12:02,320
+The flavor of the tea doesn't concern me.
+
+1079
+00:12:02,570 --> 00:12:08,320
+グンテ 貴様 仮にも王にお出しする茶が失敗作とは何事だ
+
+1080
+00:12:02,820 --> 00:12:08,080
+However, Geun-tae, how dare you serve the king low-quality tea?
+
+1081
+00:12:08,290 --> 00:12:11,460
+Huh? No one said it was low-quality.
+
+1082
+00:12:08,320 --> 00:12:11,440
+あぁ だれも失敗とは言っとらん
+
+1083
+00:12:11,440 --> 00:12:13,630
+相変わらず固い男よ
+
+1084
+00:12:11,460 --> 00:12:13,790
+You're as stiff as ever.
+
+1085
+00:12:13,630 --> 00:12:16,700
+そのように年中眉間に皺を寄せておるから
+
+1086
+00:12:13,790 --> 00:12:16,590
+You still don't have a woman to serve you tea,
+
+1087
+00:12:16,590 --> 00:12:19,590
+because you furrow your brow year-round.
+
+1088
+00:12:16,700 --> 00:12:19,940
+茶を出してくれる女も出来んのじゃ
+
+1089
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1090
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1091
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1092
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1093
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1094
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1095
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1096
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1097
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1098
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1099
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1100
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1101
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1102
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1103
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1104
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1105
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1106
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1107
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1108
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1109
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1110
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1111
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1112
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1113
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1114
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1115
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1116
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1117
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1118
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1119
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1120
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1121
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1122
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1123
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1124
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1125
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1126
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1127
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1128
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1129
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1130
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1131
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1132
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1133
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1134
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1135
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1136
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1137
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1138
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1139
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1140
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1141
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1142
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1143
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1144
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1145
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1146
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1147
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1148
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1149
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1150
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1151
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1152
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1153
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1154
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1155
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1156
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1157
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1158
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1159
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1160
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1161
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1162
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1163
+00:12:19,000 --> 00:12:19,050
+34-Year-Old Bachelor
+
+1164
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1165
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1166
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1167
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1168
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1169
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1170
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1171
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1172
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1173
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1174
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1175
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1176
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1177
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1178
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1179
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1180
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1181
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1182
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1183
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1184
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1185
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1186
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1187
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1188
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1189
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1190
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1191
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1192
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1193
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1194
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1195
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1196
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1197
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1198
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1199
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1200
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1201
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1202
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1203
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1204
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1205
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1206
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1207
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1208
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1209
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1210
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1211
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1212
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1213
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1214
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1215
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1216
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1217
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1218
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1219
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1220
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1221
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1222
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1223
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1224
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1225
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1226
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1227
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1228
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1229
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1230
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1231
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1232
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1233
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1234
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1235
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1236
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1237
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1238
+00:12:19,050 --> 00:12:19,090
+34-Year-Old Bachelor
+
+1239
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1240
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1241
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1242
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1243
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1244
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1245
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1246
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1247
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1248
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1249
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1250
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1251
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1252
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1253
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1254
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1255
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1256
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1257
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1258
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1259
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1260
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1261
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1262
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1263
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1264
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1265
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1266
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1267
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1268
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1269
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1270
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1271
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1272
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1273
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1274
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1275
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1276
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1277
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1278
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1279
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1280
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1281
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1282
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1283
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1284
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1285
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1286
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1287
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1288
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1289
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1290
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1291
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1292
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1293
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1294
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1295
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1296
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1297
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1298
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1299
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1300
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1301
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1302
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1303
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1304
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1305
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1306
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1307
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1308
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1309
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1310
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1311
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1312
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1313
+00:12:19,090 --> 00:12:19,130
+34-Year-Old Bachelor
+
+1314
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1315
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1316
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1317
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1318
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1319
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1320
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1321
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1322
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1323
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1324
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1325
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1326
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1327
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1328
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1329
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1330
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1331
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1332
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1333
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1334
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1335
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1336
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1337
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1338
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1339
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1340
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1341
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1342
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1343
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1344
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1345
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1346
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1347
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1348
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1349
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1350
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1351
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1352
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1353
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1354
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1355
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1356
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1357
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1358
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1359
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1360
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1361
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1362
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1363
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1364
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1365
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1366
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1367
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1368
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1369
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1370
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1371
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1372
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1373
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1374
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1375
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1376
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1377
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1378
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1379
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1380
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1381
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1382
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1383
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1384
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1385
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1386
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1387
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1388
+00:12:19,130 --> 00:12:19,170
+34-Year-Old Bachelor
+
+1389
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1390
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1391
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1392
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1393
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1394
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1395
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1396
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1397
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1398
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1399
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1400
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1401
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1402
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1403
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1404
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1405
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1406
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1407
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1408
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1409
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1410
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1411
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1412
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1413
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1414
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1415
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1416
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1417
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1418
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1419
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1420
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1421
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1422
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1423
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1424
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1425
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1426
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1427
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1428
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1429
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1430
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1431
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1432
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1433
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1434
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1435
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1436
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1437
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1438
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1439
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1440
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1441
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1442
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1443
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1444
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1445
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1446
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1447
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1448
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1449
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1450
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1451
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1452
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1453
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1454
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1455
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1456
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1457
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1458
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1459
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1460
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1461
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1462
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1463
+00:12:19,170 --> 00:12:21,510
+34-Year-Old Bachelor
+
+1464
+00:12:19,940 --> 00:12:21,780
+貴様
+
+1465
+00:12:20,130 --> 00:12:22,010
+You bastard!
+
+1466
+00:12:21,780 --> 00:12:23,280
+お やるか
+
+1467
+00:12:22,010 --> 00:12:23,090
+You want to fight?
+
+1468
+00:12:23,090 --> 00:12:25,640
+Cheol, bring me my sword.
+
+1469
+00:12:23,280 --> 00:12:25,610
+おい チョル 俺の刀を持ってこい
+
+1470
+00:12:25,610 --> 00:12:27,950
+グンテ様は戦いたいだけでしょう
+
+1471
+00:12:25,640 --> 00:12:27,930
+Lord Geun-tae, you just want to fight!
+
+1472
+00:12:29,100 --> 00:12:30,370
+グンテ将軍
+
+1473
+00:12:29,140 --> 00:12:30,310
+General Geun-tae...
+
+1474
+00:12:32,500 --> 00:12:34,660
+な なにか
+
+1475
+00:12:32,560 --> 00:12:34,690
+Y-Yes?
+
+1476
+00:12:39,790 --> 00:12:43,900
+美味しかったです 後で茶畑 見せてください
+
+1477
+00:12:39,900 --> 00:12:43,820
+It was delicious. I'd like to see
+your tea plantation later.
+
+1478
+00:12:45,070 --> 00:12:49,160
+It's because you're so relaxed
+that people don't take you seriously!
+
+1479
+00:12:45,080 --> 00:12:49,030
+貴方がそのようにぼへっとしておられる侮られるのです
+
+1480
+00:12:49,030 --> 00:12:51,340
+もっと王たるの威厳と自覚を
+
+1481
+00:12:49,160 --> 00:12:51,370
+You must have the self-awareness
+and dignity of a king!
+
+1482
+00:12:51,340 --> 00:12:53,770
+はい ごめんなさい
+
+1483
+00:12:51,370 --> 00:12:53,410
+You're right. I'm sorry.
+
+1484
+00:12:53,770 --> 00:12:56,480
+これがユホン様の嫡男
+
+1485
+00:12:53,790 --> 00:12:56,500
+This is Lord Yu-hon's heir?
+
+1486
+00:12:56,480 --> 00:12:59,730
+気の抜けた頼りない男よ
+
+1487
+00:12:57,460 --> 00:12:59,670
+What a languid and unreliable man.
+
+1488
+00:13:00,390 --> 00:13:03,500
+憧れたユホン様の面影は欠片もない
+
+1489
+00:13:00,460 --> 00:13:03,630
+I don't see in him even a shred
+of the Lord Yu-hon I admired.
+
+1490
+00:13:03,500 --> 00:13:06,460
+何方かと言えば イル王じゃねぇか
+
+1491
+00:13:03,630 --> 00:13:06,800
+If anything, he's more like King Il.
+
+1492
+00:13:06,770 --> 00:13:09,740
+ユホン様は比類なき最強の武人
+
+1493
+00:13:06,800 --> 00:13:09,680
+Lord Yu-hon was a peerless, powerful warrior.
+
+1494
+00:13:09,680 --> 00:13:12,770
+In my mind, he was the only true king.
+
+1495
+00:13:09,740 --> 00:13:12,970
+俺が認めた唯一の君主
+
+1496
+00:13:14,260 --> 00:13:16,930
+大丈夫か こいつは
+
+1497
+00:13:14,310 --> 00:13:17,100
+Will this man really make a decent king?
+
+1498
+00:13:20,540 --> 00:13:23,540
+地心城は初めてで 興味深いです
+
+1499
+00:13:20,650 --> 00:13:23,280
+This is my first time at
+Chishin Castle. It's fascinating.
+
+1500
+00:13:23,540 --> 00:13:27,810
+いや 今はあちこち ガタがきてまして
+
+1501
+00:13:23,650 --> 00:13:27,610
+It's beginning to show its age here and there.
+
+1502
+00:13:27,810 --> 00:13:30,520
+改装したいのですが お恥ずかしい
+
+1503
+00:13:27,990 --> 00:13:30,240
+We hope to remodel soon.
+I'm embarrassed to show it to you.
+
+1504
+00:13:30,520 --> 00:13:33,190
+先立つもんがねぇもんな
+
+1505
+00:13:30,620 --> 00:13:33,000
+We can't afford to remodel now.
+
+1506
+00:13:34,280 --> 00:13:36,170
+でも城がぼろいのは
+
+1507
+00:13:34,290 --> 00:13:40,380
+But I heard the castle is in shambles
+due to your rampages as a young man.
+
+1508
+00:13:36,170 --> 00:13:40,610
+グンテ様が若い頃暴れられたせいもあると聞いてますが...
+
+1509
+00:13:39,130 --> 00:13:40,380
+Lord Geun-tae!
+
+1510
+00:13:39,170 --> 00:13:40,610
+グンテ様
+
+1511
+00:13:40,710 --> 00:13:43,170
+What is it, Elder Hi-dea?
+
+1512
+00:13:41,850 --> 00:13:43,230
+どうした ヒデ爺
+
+1513
+00:13:43,170 --> 00:13:45,840
+Udo Mine collapsed again.
+
+1514
+00:13:43,230 --> 00:13:45,700
+ウド鉱山でまた落盤だ
+
+1515
+00:13:45,700 --> 00:13:48,030
+なんだと 怪我人は
+
+1516
+00:13:45,840 --> 00:13:48,090
+What? Was anyone hurt?
+
+1517
+00:13:48,030 --> 00:13:50,680
+若いのが十数人やられた
+
+1518
+00:13:48,090 --> 00:13:50,390
+More than ten of the youngsters.
+
+1519
+00:13:50,390 --> 00:13:52,640
+That place is dangerous.
+
+1520
+00:13:50,680 --> 00:13:54,140
+あそこはもうやべぇな 取り付くしちまったか
+
+1521
+00:13:52,640 --> 00:13:54,310
+Has it been exhausted?
+
+1522
+00:13:54,210 --> 00:13:55,340
+陛下
+
+1523
+00:13:54,310 --> 00:13:55,100
+King?
+
+1524
+00:13:55,100 --> 00:13:58,270
+Recently, the amount of iron ore extracted has declined,
+
+1525
+00:13:55,410 --> 00:13:58,250
+近頃は鉄鉱石の採掘量は...
+
+1526
+00:13:55,480 --> 00:13:56,060
+King!
+
+1527
+00:13:55,480 --> 00:13:56,410
+陛下
+
+1528
+00:13:57,020 --> 00:13:58,270
+Yes?
+
+1529
+00:13:57,120 --> 00:13:58,280
+あ はい
+
+1530
+00:13:58,270 --> 00:14:00,980
+What brings you to Chishin?
+
+1531
+00:13:58,280 --> 00:14:01,040
+陛下は地心に如何なるご用件か
+
+1532
+00:13:58,520 --> 00:14:00,980
+but the miners were digging new tunnels
+
+1533
+00:14:00,980 --> 00:14:03,780
+in an attempt to do something about the situation.
+
+1534
+00:14:01,300 --> 00:14:07,610
+陛下が直々にご光来なされたのです
+きっと重要なお話がおありなのでしょう
+
+1535
+00:14:01,400 --> 00:14:04,530
+We are honored that you came here yourself.
+
+1536
+00:14:03,780 --> 00:14:05,650
+And it backfired.
+
+1537
+00:14:04,530 --> 00:14:07,320
+You must have something important to discuss.
+
+1538
+00:14:05,650 --> 00:14:07,320
+Send a horse.
+
+1539
+00:14:07,780 --> 00:14:09,700
+No, I'm just sightseeing.
+
+1540
+00:14:07,790 --> 00:14:10,080
+いえ 少し観光に
+
+1541
+00:14:07,990 --> 00:14:09,700
+Close the unfinished tunnels.
+
+1542
+00:14:09,700 --> 00:14:11,330
+I'll visit the injured later.
+
+1543
+00:14:10,080 --> 00:14:11,370
+観光
+
+1544
+00:14:10,200 --> 00:14:11,330
+Sightseeing?
+
+1545
+00:14:11,330 --> 00:14:12,200
+Yes, sir.
+
+1546
+00:14:11,330 --> 00:14:12,200
+Yes.
+
+1547
+00:14:11,370 --> 00:14:12,430
+はい
+
+1548
+00:14:12,410 --> 00:14:18,000
+Kouka Kingdom is in turmoil,
+and the new king is sightseeing?
+
+1549
+00:14:12,430 --> 00:14:17,680
+この昏迷に陥った高華国を新王のあなたがのんびり観光ですか
+
+1550
+00:14:18,000 --> 00:14:22,590
+Some of our own tribe's regions
+are unstable, such as Awa-
+
+1551
+00:14:18,060 --> 00:14:23,500
+我が部族にも不安定な地があるというのに 例えば阿波とか
+
+1552
+00:14:22,590 --> 00:14:23,170
+Ow.
+
+1553
+00:14:23,500 --> 00:14:24,960
+Watch your mouth.
+
+1554
+00:14:23,500 --> 00:14:27,300
+口を慎め 俺にしゃべるみたいにしゃべるな
+
+1555
+00:14:24,960 --> 00:14:27,220
+Don't talk to him like you talk to me.
+
+1556
+00:14:27,220 --> 00:14:28,760
+I don't mind.
+
+1557
+00:14:27,300 --> 00:14:28,790
+構えませんよ
+
+1558
+00:14:33,030 --> 00:14:34,190
+陛下
+
+1559
+00:14:33,180 --> 00:14:34,060
+King...
+
+1560
+00:14:35,390 --> 00:14:40,190
+What did you think of the previous king?
+
+1561
+00:14:35,390 --> 00:14:40,390
+陛下は 先王 イル王をどう思われておいてか
+
+1562
+00:14:40,630 --> 00:14:42,010
+グンテ様
+
+1563
+00:14:40,650 --> 00:14:41,810
+Lord Geun-tae?
+
+1564
+00:14:42,190 --> 00:14:47,390
+不敬ながら 俺は あの王には疑問を抱くばかりだった
+
+1565
+00:14:42,310 --> 00:14:46,900
+Please excuse me for saying so, but I found
+the previous king's policies questionable at best.
+
+1566
+00:14:47,590 --> 00:14:52,080
+争いを避け 領土を譲り 国力が下はる一方
+
+1567
+00:14:47,740 --> 00:14:52,240
+He avoided conflict, gave up land,
+and let the kingdom's strength decline.
+
+1568
+00:14:52,080 --> 00:14:57,570
+民のためと聞こえはいいが
+救われた民はどこにいたのか
+
+1569
+00:14:52,240 --> 00:14:57,160
+Though he claimed it was for the people, where are these people he saved?
+
+1570
+00:14:57,570 --> 00:15:00,280
+南の真と斉には舐められ
+
+1571
+00:14:57,790 --> 00:15:00,370
+The southern Shin and Sei kingdoms
+treated us like pushovers,
+
+1572
+00:15:00,280 --> 00:15:04,170
+戒帝国からは いつ襲撃されるのかと怯えた
+
+1573
+00:15:00,370 --> 00:15:03,920
+and I feared the Kai Empire
+would attack at any time.
+
+1574
+00:15:04,460 --> 00:15:09,170
+Rather than just watch the king further disgrace and endanger Kouka,
+
+1575
+00:15:04,570 --> 00:15:06,520
+これ以上の屈辱を受け入れ
+
+1576
+00:15:06,520 --> 00:15:09,370
+高華を危険にさらすのならば
+
+1577
+00:15:09,370 --> 00:15:14,070
+もしかしたら 謀反を起こしたのは 俺だったかもしれん
+
+1578
+00:15:09,630 --> 00:15:14,010
+perhaps I was the one who rose against him.
+
+1579
+00:15:15,120 --> 00:15:16,430
+グンテ様
+
+1580
+00:15:15,180 --> 00:15:16,310
+Lord Geun-tae!
+
+1581
+00:15:16,430 --> 00:15:17,480
+グンテ
+
+1582
+00:15:16,560 --> 00:15:17,560
+Geun-tae!
+
+1583
+00:15:17,480 --> 00:15:19,080
+おっと 違った
+
+1584
+00:15:17,560 --> 00:15:19,310
+Oh, my mistake.
+
+1585
+00:15:19,860 --> 00:15:22,970
+俺は謀反を起こしていたかもしれん
+
+1586
+00:15:19,940 --> 00:15:22,810
+I could have been the one to rise against him.
+
+1587
+00:15:22,810 --> 00:15:24,570
+Th-This man...
+
+1588
+00:15:22,970 --> 00:15:24,630
+こ こいつ
+
+1589
+00:15:24,570 --> 00:15:26,780
+Y-You're not making it much better!
+
+1590
+00:15:24,630 --> 00:15:26,820
+どどど どっちもダメですって
+
+1591
+00:15:26,780 --> 00:15:28,190
+He doesn't mean that, King!
+
+1592
+00:15:26,820 --> 00:15:28,270
+違いますよ 陛下
+
+1593
+00:15:28,190 --> 00:15:31,160
+O-Our tribe would never start a rebellion!
+
+1594
+00:15:28,270 --> 00:15:31,120
+ううう うちの部族は謀反だなんって
+
+1595
+00:15:31,120 --> 00:15:37,080
+俺が言いたいのは陛下
+貴方様がイル王とどう違われるかということです
+
+1596
+00:15:31,160 --> 00:15:36,700
+What I mean to ask is this:
+how are you different from King Il?
+
+1597
+00:15:37,080 --> 00:15:42,210
+この時期に観光などをし
+のんきに茶など喜んでおられる
+
+1598
+00:15:37,160 --> 00:15:42,290
+In this time of crisis, you're casually sightseeing and drinking tea.
+
+1599
+00:15:42,210 --> 00:15:45,410
+それで この国は救われますかな
+
+1600
+00:15:42,290 --> 00:15:44,960
+Will that save our kingdom?
+
+1601
+00:15:46,090 --> 00:15:47,590
+At the coronation ceremony,
+
+1602
+00:15:46,100 --> 00:15:47,520
+貴方は戴冠式で
+
+1603
+00:15:47,520 --> 00:15:53,330
+先々代国王の時代のような強国へと
+この国を再生させると申された
+
+1604
+00:15:47,590 --> 00:15:53,340
+you said you would restore this kingdom
+to the mighty nation of two generations ago.
+
+1605
+00:15:54,260 --> 00:15:57,470
+Can you tell me with conviction
+that you weren't lying?
+
+1606
+00:15:54,260 --> 00:15:57,720
+その心に 偽りなしと言い切れますか
+
+1607
+00:16:03,120 --> 00:16:04,030
+はい
+
+1608
+00:16:03,150 --> 00:16:03,980
+Yes.
+
+1609
+00:16:04,920 --> 00:16:06,780
+偽りはありませんよ
+
+1610
+00:16:04,980 --> 00:16:07,110
+I meant it.
+
+1611
+00:16:10,460 --> 00:16:12,380
+覇気がねぇ
+
+1612
+00:16:10,530 --> 00:16:12,490
+He has no ambition.
+
+1613
+00:16:14,280 --> 00:16:19,450
+偽りなしと言っているのに なんだ この脱力感
+
+1614
+00:16:14,320 --> 00:16:19,540
+He says he meant it,
+but why is he so languid?
+
+1615
+00:16:24,290 --> 00:16:26,420
+What is this stone?
+
+1616
+00:16:24,320 --> 00:16:26,110
+なんですか この石
+
+1617
+00:16:26,710 --> 00:16:29,130
+Who cares about some rock?
+
+1618
+00:16:26,720 --> 00:16:28,920
+石なんかどうでもいいでしょう
+
+1619
+00:16:28,920 --> 00:16:33,900
+だってジュド将軍
+こんなところに石が祭られているなんて
+
+1620
+00:16:29,130 --> 00:16:34,010
+But, General Ju-doh, who would expect to find a stone enshrined here?
+
+1621
+00:16:33,900 --> 00:16:35,370
+ダメだ
+
+1622
+00:16:34,010 --> 00:16:35,050
+It's no use.
+
+1623
+00:16:35,370 --> 00:16:37,170
+ダメだこいつは
+
+1624
+00:16:35,550 --> 00:16:37,390
+He's useless.
+
+1625
+00:16:37,170 --> 00:16:39,660
+ユホン様とは似ても似つかん
+
+1626
+00:16:37,390 --> 00:16:39,720
+He's nothing like Lord Yu-hon.
+
+1627
+00:16:39,660 --> 00:16:43,680
+とてもこの国を立て直せる器じゃねぇ
+
+1628
+00:16:39,720 --> 00:16:43,230
+He can't rebuild this kingdom.
+
+1629
+00:16:43,680 --> 00:16:47,500
+そいつは ウド鉱山から持ってきた石ですよ
+
+1630
+00:16:43,940 --> 00:16:47,480
+That stone came from Udo Mine.
+
+1631
+00:16:47,480 --> 00:16:49,730
+Oh? From the mine?
+
+1632
+00:16:48,880 --> 00:16:50,100
+鉱山から
+
+1633
+00:16:50,100 --> 00:16:52,430
+富と幸福を与えるものとして
+
+1634
+00:16:50,110 --> 00:16:54,450
+Our tribe has a custom of enshrining stones for good fortune and happiness.
+
+1635
+00:16:52,430 --> 00:16:54,410
+祭る風習があるんです
+
+1636
+00:16:54,410 --> 00:16:57,390
+確かに よく見ると 綺麗ですね
+
+1637
+00:16:54,450 --> 00:16:57,530
+Upon closer inspection, it certainly is beautiful.
+
+1638
+00:16:57,390 --> 00:16:59,610
+この石は高価なものですか
+
+1639
+00:16:57,530 --> 00:16:59,240
+Is this stone valuable?
+
+1640
+00:16:59,530 --> 00:17:02,580
+No, the stone itself has no value.
+
+1641
+00:16:59,610 --> 00:17:02,650
+いや それ自体に 値はつきませんよ
+
+1642
+00:17:02,580 --> 00:17:04,620
+What we want is iron ore.
+
+1643
+00:17:02,650 --> 00:17:04,770
+欲しいのは鉄鉱石ですから
+
+1644
+00:17:05,870 --> 00:17:08,460
+Excuse me, King.
+
+1645
+00:17:05,940 --> 00:17:08,340
+あぁ 失礼 陛下
+
+1646
+00:17:08,340 --> 00:17:11,770
+俺は色々と忙しい故 部屋に戻ります
+
+1647
+00:17:08,460 --> 00:17:11,840
+I'm busy. I must return to my chambers.
+
+1648
+00:17:11,770 --> 00:17:15,000
+御用の際は城の者にお申し付けください
+
+1649
+00:17:11,840 --> 00:17:14,930
+If you need anything,
+please speak to a castle servant.
+
+1650
+00:17:15,000 --> 00:17:16,980
+こらグンテ 貴様
+
+1651
+00:17:15,180 --> 00:17:16,930
+Hey, Geun-tae! You bastard!
+
+1652
+00:17:16,930 --> 00:17:19,930
+How, exactly, are you busy?
+
+1653
+00:17:16,980 --> 00:17:19,880
+どこが忙しいんです どこが
+
+1654
+00:17:19,880 --> 00:17:23,320
+はい またお話しましょう グンテ将軍
+
+1655
+00:17:19,930 --> 00:17:20,850
+Very well.
+
+1656
+00:17:20,850 --> 00:17:22,930
+Let us speak another time, General Geun-tae.
+
+1657
+00:17:24,770 --> 00:17:26,980
+U-Um, King...
+
+1658
+00:17:25,340 --> 00:17:26,820
+あっ あのあの 陛下
+
+1659
+00:17:27,440 --> 00:17:33,440
+The rebellion Lord Geun-tae spoke of was just, well, a figure of speech.
+
+1660
+00:17:27,500 --> 00:17:33,520
+グンテ様がおっしゃられた謀反というのは
+そのあの 言葉の綾と申しますか
+
+1661
+00:17:33,440 --> 00:17:38,740
+He causes us all kinds of trouble
+with his exaggerations.
+
+1662
+00:17:33,520 --> 00:17:38,830
+あの方 時折ああいう大げさな嘘をついたりして
+我々を困らせるので
+
+1663
+00:17:38,740 --> 00:17:41,660
+That is, it isn't how he actually feels.
+
+1664
+00:17:38,830 --> 00:17:41,710
+そのつまり 決して本心では
+
+1665
+00:17:41,660 --> 00:17:43,080
+It's all right.
+
+1666
+00:17:41,710 --> 00:17:43,260
+大丈夫ですよ
+
+1667
+00:17:43,260 --> 00:17:45,330
+咎めたりはしませんはら
+
+1668
+00:17:43,540 --> 00:17:45,250
+He won't be punished.
+
+1669
+00:17:47,210 --> 00:17:52,500
+I'm sorry. Lord Geun-tae is slightly depressed.
+
+1670
+00:17:47,260 --> 00:17:52,570
+申し訳ありません
+グンテ様は少し塞ぎ込んでおられるのです
+
+1671
+00:17:53,080 --> 00:17:57,280
+ジュナム王の時代より
+猛将と謳われた方ですから
+
+1672
+00:17:53,210 --> 00:17:57,260
+Since King Ju-nam's reign,
+he's been known as a great general.
+
+1673
+00:17:57,260 --> 00:18:01,640
+He believes he belongs on the battlefield.
+
+1674
+00:17:57,320 --> 00:18:01,970
+戦場こそが己の生きる場所と思っておられるのです
+
+1675
+00:18:01,970 --> 00:18:03,680
+この時代において
+
+1676
+00:18:02,220 --> 00:18:08,270
+In recent times, his inability to protect Kouka Kingdom with his strength has vexed him.
+
+1677
+00:18:03,680 --> 00:18:08,190
+自分の力では高華国を守れないのか歯痒いのでしょう
+
+1678
+00:18:09,480 --> 00:18:13,990
+あんなだらしない格好で
+一見傍若無人に見えますけど...
+
+1679
+00:18:09,520 --> 00:18:13,730
+Though his slovenly appearance
+does seem defiant.
+
+1680
+00:18:13,990 --> 00:18:15,520
+分かりますよ
+
+1681
+00:18:14,320 --> 00:18:19,450
+I understand General Geun-tae.
+It's clear from watching you two.
+
+1682
+00:18:15,520 --> 00:18:20,030
+グンテ将軍のことは あなた達を見ていれば
+
+1683
+00:18:20,490 --> 00:18:25,290
+You speak frankly to one another
+without concern for rank.
+
+1684
+00:18:20,540 --> 00:18:25,700
+みんな物怖じせず
+上下関係なく互いに声を掛け合っている
+
+1685
+00:18:25,700 --> 00:18:29,010
+彼の人柄がそうさせているのでしょう
+
+1686
+00:18:25,950 --> 00:18:28,710
+It must be his character that allows it.
+
+1687
+00:18:30,520 --> 00:18:33,860
+私の大好きな人達にどこか似てます
+
+1688
+00:18:30,580 --> 00:18:33,800
+That reminds me of the people I love.
+
+1689
+00:18:34,790 --> 00:18:37,700
+あなたも グンテ将軍が大好きでしょう
+
+1690
+00:18:34,960 --> 00:18:37,880
+You love General Geun-tae, don't you?
+
+1691
+00:18:37,880 --> 00:18:38,800
+What?
+
+1692
+00:18:38,770 --> 00:18:41,880
+その髪型 将軍とお揃いです
+
+1693
+00:18:38,800 --> 00:18:41,850
+Your hair matches the general's.
+
+1694
+00:18:43,320 --> 00:18:48,160
+地の部族の至るところで
+その馬のしっぽ 見かけました
+
+1695
+00:18:43,390 --> 00:18:48,230
+I have seen that ponytail everywhere throughout the Earth Tribe.
+
+1696
+00:18:48,890 --> 00:18:55,610
+Well, he truly looked gallant and
+heroic on the battlefield.
+
+1697
+00:18:50,300 --> 00:18:55,500
+だって 戦場でのあの方は本当に格好よくて 勇ましくて
+
+1698
+00:18:55,500 --> 00:18:58,280
+そりゃ皆憧れたものです
+
+1699
+00:18:55,610 --> 00:18:57,940
+Everyone admired him!
+
+1700
+00:18:58,820 --> 00:19:03,830
+Just between us, becoming his servant was an extremely competitive process.
+
+1701
+00:18:58,860 --> 00:19:03,860
+ここだけの話 世話役になるのも
+凄い競争率だったんですよ
+
+1702
+00:19:03,830 --> 00:19:07,040
+Don't tell him, though.
+
+1703
+00:19:03,860 --> 00:19:06,990
+あ でも あの方には言わないでくださいね
+
+1704
+00:19:06,990 --> 00:19:09,210
+調子に乗ったりしますから
+
+1705
+00:19:07,040 --> 00:19:08,790
+It'll just go to his head.
+
+1706
+00:19:09,120 --> 00:19:12,540
+What's so great about him? I don't get it.
+
+1707
+00:19:09,210 --> 00:19:12,600
+あの男の何がいいんだ 解せん
+
+1708
+00:19:12,600 --> 00:19:15,080
+そんなに格好いいなら
+
+1709
+00:19:12,830 --> 00:19:19,050
+If he's as impressive as you say,
+I'd like to see the gallant General Geun-tae.
+
+1710
+00:19:15,080 --> 00:19:19,140
+私も見てみたいなぁ グンテ将軍の勇姿を
+
+1711
+00:19:19,140 --> 00:19:21,140
+そりゃま
+
+1712
+00:19:19,380 --> 00:19:24,140
+Of course, but there are no wars.
+
+1713
+00:19:21,140 --> 00:19:24,390
+でも戦があるわけではありませんから
+
+1714
+00:19:24,640 --> 00:19:25,850
+I understand.
+
+1715
+00:19:24,700 --> 00:19:25,920
+成程
+
+1716
+00:19:26,900 --> 00:19:27,880
+では...
+
+1717
+00:19:27,020 --> 00:19:28,020
+In that case...
+
+1718
+00:19:28,020 --> 00:19:30,310
+Lord Geun-tae! Lord Geun-tae!
+
+1719
+00:19:28,170 --> 00:19:30,540
+グンテ様 グンテ様
+
+1720
+00:19:30,540 --> 00:19:33,090
+グンテ様X3
+
+1721
+00:19:30,640 --> 00:19:33,020
+Lord Geun-tae! Lord Geun-tae! Lord Geun-tae!
+
+1722
+00:19:33,020 --> 00:19:35,320
+What is it? Shut up.
+
+1723
+00:19:33,090 --> 00:19:35,360
+なんだっつんじゃい 喧しい
+
+1724
+00:19:35,320 --> 00:19:36,070
+The king...
+
+1725
+00:19:35,360 --> 00:19:36,570
+陛下が
+
+1726
+00:19:36,530 --> 00:19:38,990
+I refuse to talk to that pampered boy.
+
+1727
+00:19:36,570 --> 00:19:39,230
+俺はもう あの坊ちゃんの相手はせんぞ
+
+1728
+00:19:39,230 --> 00:19:43,830
+そうではなくて スウォン陛下が戦をなさるそうです
+
+1729
+00:19:39,240 --> 00:19:40,780
+It's not that.
+
+1730
+00:19:40,780 --> 00:19:43,950
+Apparently, King Su-won is preparing for war!
+
+1731
+00:19:44,910 --> 00:19:47,040
+King Su-won! King Su-won!
+
+1732
+00:19:45,030 --> 00:19:49,140
+スウォン陛下*4
+
+1733
+00:19:47,290 --> 00:19:49,080
+King Su-won! King Su-won!
+
+1734
+00:19:49,080 --> 00:19:51,040
+Shut up! We heard you the first time!
+
+1735
+00:19:49,140 --> 00:19:51,100
+煩い 一度で伝わる
+
+1736
+00:19:51,040 --> 00:19:53,580
+You've d-decided to go to war?
+
+1737
+00:19:51,100 --> 00:19:53,590
+ついに戦を決意なされたか
+
+1738
+00:19:53,580 --> 00:19:54,670
+Who will we be fighting?
+
+1739
+00:19:53,590 --> 00:19:54,830
+相手はどこじゃ
+
+1740
+00:19:54,670 --> 00:19:55,960
+Is it Shin? Sei?
+
+1741
+00:19:54,830 --> 00:19:59,340
+真か 斉か やはり戒 任せ
+
+1742
+00:19:55,960 --> 00:19:56,800
+Is it Kai?
+
+1743
+00:19:57,880 --> 00:19:59,510
+Leave it to me!
+
+1744
+00:19:59,340 --> 00:20:02,810
+いや 分かっております まずは兵と武器を
+
+1745
+00:19:59,510 --> 00:20:01,130
+No, I know.
+
+1746
+00:20:01,130 --> 00:20:02,880
+First, we must prepare soldiers and weapons.
+
+1747
+00:20:02,810 --> 00:20:07,020
+グンテ将軍 戦と言っても 戦ごっこですよ
+
+1748
+00:20:02,880 --> 00:20:03,930
+General Geun-tae,
+
+1749
+00:20:04,300 --> 00:20:06,930
+it's only a war game.
+
+1750
+00:20:09,720 --> 00:20:10,270
+Huh?
+
+1751
+00:20:10,810 --> 00:20:13,560
+The generals are starved for battle,
+
+1752
+00:20:10,900 --> 00:20:13,480
+将軍は戦闘に飢えておられるし
+
+1753
+00:20:13,480 --> 00:20:16,570
+皆も将軍の勇姿を見たがっているので
+
+1754
+00:20:13,560 --> 00:20:16,150
+and the people wish to see their gallant heroes.
+
+1755
+00:20:17,070 --> 00:20:20,650
+I thought we might hold a festival in Chishin.
+
+1756
+00:20:17,190 --> 00:20:20,630
+地心の都で祭りなど催されては如何かと
+
+1757
+00:20:21,190 --> 00:20:26,810
+え えと それはつまり模擬戦ですかな
+
+1758
+00:20:21,240 --> 00:20:26,410
+U-Um, in other words, it's a mock battle?
+
+1759
+00:20:26,810 --> 00:20:28,660
+もっと気楽感じで
+
+1760
+00:20:26,910 --> 00:20:28,740
+It won't be a serious affair.
+
+1761
+00:20:28,660 --> 00:20:32,900
+祭りで死人を出すわけにはいきませんから 真剣はなしで
+
+1762
+00:20:28,740 --> 00:20:31,330
+I cannot allow anyone to die at a festival.
+
+1763
+00:20:31,330 --> 00:20:32,830
+We won't be using real swords.
+
+1764
+00:20:35,480 --> 00:20:40,210
+こんなんだ ジュド この腰巾着がと言いたいとこだが
+
+1765
+00:20:35,630 --> 00:20:38,960
+Ju-doh, you sycophant.
+
+1766
+00:20:38,960 --> 00:20:41,380
+That's what I'd like to say,
+but I should thank you.
+
+1767
+00:20:40,210 --> 00:20:43,900
+礼を言う つい手が勝手に拳骨を
+
+1768
+00:20:41,380 --> 00:20:43,800
+My hands made fists on their own.
+
+1769
+00:20:43,800 --> 00:20:46,010
+You bastard. How dare you!
+
+1770
+00:20:43,900 --> 00:20:47,320
+貴様陛下に何を と言いたいとこだが
+
+1771
+00:20:46,010 --> 00:20:48,810
+That's what I'd like to say,
+but I understand how you feel.
+
+1772
+00:20:47,320 --> 00:20:48,610
+気持ちは分かる
+
+1773
+00:20:48,610 --> 00:20:51,580
+貴様がしなければ 俺がやっていた
+
+1774
+00:20:48,810 --> 00:20:51,520
+If you hadn't done it, I would have!
+
+1775
+00:20:51,520 --> 00:20:52,480
+King!
+
+1776
+00:20:51,580 --> 00:20:52,540
+陛下
+
+1777
+00:20:52,540 --> 00:20:56,640
+そのように遊んでるひまなどないと申し上げたではないですか
+
+1778
+00:20:52,730 --> 00:20:56,810
+I told you this isn't the time for games!
+
+1779
+00:20:56,640 --> 00:21:00,160
+まぁ たまにはジュド将軍も楽しみましょうよ
+
+1780
+00:20:56,810 --> 00:21:00,280
+You should enjoy yourself
+once in a while, General Ju-doh.
+
+1781
+00:21:01,030 --> 00:21:03,650
+The festival will be held in a week.
+
+1782
+00:21:01,060 --> 00:21:03,540
+開催は一週間後にしましょうか
+
+1783
+00:21:04,280 --> 00:21:05,240
+King,
+
+1784
+00:21:04,320 --> 00:21:05,300
+陛下
+
+1785
+00:21:05,770 --> 00:21:10,860
+地の部族は陛下の遊びにお付き合いする暇はございません
+
+1786
+00:21:05,860 --> 00:21:10,910
+the Earth Tribe doesn't have time
+to play games with you.
+
+1787
+00:21:10,860 --> 00:21:12,990
+緋龍城へお戻りを
+
+1788
+00:21:10,910 --> 00:21:12,910
+You should return to Hiryuu Castle.
+
+1789
+00:21:12,910 --> 00:21:14,000
+Huh?!
+
+1790
+00:21:12,990 --> 00:21:16,230
+へい やらないんですか
+
+1791
+00:21:14,410 --> 00:21:16,170
+We aren't going to do it?
+
+1792
+00:21:16,170 --> 00:21:18,670
+We were secretly looking forward to it.
+
+1793
+00:21:16,230 --> 00:21:19,050
+我々密かに楽しみに
+
+1794
+00:21:19,290 --> 00:21:22,050
+What? You want to play games?!
+
+1795
+00:21:19,460 --> 00:21:22,320
+なに 遊びたがってんだ お前らは
+
+1796
+00:21:22,670 --> 00:21:24,720
+They don't want to play.
+
+1797
+00:21:22,790 --> 00:21:24,520
+遊びたいんじゃないんですよ
+
+1798
+00:21:24,720 --> 00:21:25,430
+Huh?
+
+1799
+00:21:25,990 --> 00:21:30,850
+グンテ将軍 あなたはご自分の魅力をご存知ないのです
+
+1800
+00:21:26,090 --> 00:21:30,930
+General Geun-tae, you seem unaware
+of your own appeal.
+
+1801
+00:21:31,260 --> 00:21:32,100
+Huh?
+
+1802
+00:21:32,410 --> 00:21:37,990
+あ 後程 ウド鉱山へ怪我された方のお見舞いに行きたいのですが
+
+1803
+00:21:32,470 --> 00:21:37,940
+I'd like to visit the men who were
+injured at Udo Mine later.
+
+1804
+00:21:37,940 --> 00:21:39,610
+I will show you the way.
+
+1805
+00:21:37,990 --> 00:21:39,860
+ご案内しますじゃ
+
+1806
+00:21:40,570 --> 00:21:42,280
+I don't understand.
+
+1807
+00:21:40,630 --> 00:21:44,190
+意味が分からん ユホン様どころじゃんぇ
+
+1808
+00:21:42,280 --> 00:21:44,190
+I shouldn't have compared him to Lord Yu-hon.
+
+1809
+00:21:44,190 --> 00:21:47,280
+He may be even worse than King Il.
+
+1810
+00:21:44,190 --> 00:21:47,430
+ひょっとして イル王より悪いんじゃ
+
+1811
+00:21:48,940 --> 00:21:50,470
+お茶が美味しい
+
+1812
+00:21:48,990 --> 00:21:50,410
+Such delicious tea.
+
+1813
+00:21:50,470 --> 00:21:54,030
+一体どうなっちまうんだ この国は
+
+1814
+00:21:50,830 --> 00:21:54,120
+What's going to happen to this kingdom?
+
+1815
+00:22:15,020 --> 00:22:24,190
+Crying tears for the days that won't return
+
+1816
+00:22:15,020 --> 00:22:24,190
+modoranai hibi ni namida koboshite
+
+1817
+00:22:24,190 --> 00:22:33,660
+You look up to the sky, and it's burning bright red
+
+1818
+00:22:24,190 --> 00:22:33,660
+miageta sora ga akaku akaku moeru
+
+1819
+00:22:34,240 --> 00:22:46,630
+Now that you know your own strength and weakness
+
+1820
+00:22:34,240 --> 00:22:46,630
+jibun no tsuyosa yowasa kizuketa no nara ima
+
+1821
+00:22:47,420 --> 00:22:54,810
+You should have no fear and go where your heart takes you
+
+1822
+00:22:47,420 --> 00:22:54,810
+kimi yo osoreruna kokoro omomuku mama
+
+1823
+00:22:54,810 --> 00:22:59,940
+Cleaving through the wind, your path is lit
+
+1824
+00:22:54,810 --> 00:22:59,940
+kaze wo kirisusumu sono tabiji wo
+
+1825
+00:22:59,940 --> 00:23:04,940
+By the dawn
+
+1826
+00:22:59,940 --> 00:23:04,940
+akatsuki ga terasu
+
+1827
+00:23:01,400 --> 00:23:04,020
+(Gather, fierce arm)
+
+1828
+00:23:01,400 --> 00:23:04,020
+(tsudoe takeki kaina)
+
+1829
+00:23:04,020 --> 00:23:06,740
+(All-seeing eyes)
+
+1830
+00:23:04,020 --> 00:23:06,740
+(senri no hitomi)
+
+1831
+00:23:04,940 --> 00:23:09,110
+Feet that dash through the sky
+
+1832
+00:23:04,940 --> 00:23:09,110
+sora wo kakeyuku ashi
+
+1833
+00:23:07,990 --> 00:23:10,570
+(Shield of eternity)
+
+1834
+00:23:07,990 --> 00:23:10,570
+(kuon no tate)
+
+1835
+00:23:09,110 --> 00:23:14,160
+Fulfill the ancient vows
+
+1836
+00:23:09,110 --> 00:23:14,160
+inishie no chikai ima hatashite
+
+1837
+00:23:14,160 --> 00:23:21,000
+O night, break into dawn
+
+1838
+00:23:14,160 --> 00:23:21,000
+yoru yo akete yuke
+
+1839
+00:23:26,050 --> 00:23:41,060
+Next Time
+
+1840
+00:23:27,720 --> 00:23:31,900
+ここが戦場ならば 貴方は確実に死にます
+
+1841
+00:23:27,760 --> 00:23:32,180
+If this place were a battlefield,
+you would certainly die.
+
+1842
+00:23:32,470 --> 00:23:34,800
+Then... what will you do?
+
+1843
+00:23:32,540 --> 00:23:35,030
+さて どうしますか
+
+1844
+00:23:35,930 --> 00:23:38,730
+Next time, Akatsuki no Yona, episode 16:
+
+1845
+00:23:35,940 --> 00:23:39,190
+次回 暁のヨナ 第十六話
+
+1846
+00:23:37,890 --> 00:23:41,060
+Episode 16:      War Games
+
+1847
+00:23:37,890 --> 00:23:41,060
+Episode 16:      War Games
+
+1848
+00:23:39,190 --> 00:23:40,830
+戦ごっこ
+
+1849
+00:23:39,350 --> 00:23:40,310
+War Games.
+
