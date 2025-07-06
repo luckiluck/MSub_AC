@@ -1,0 +1,15 @@
+msubtitles:
+- source: https://raw.githubusercontent.com/luckiluck/MSub_AC/main/Japanese_Subtitles/Afro%20Samurai/
+  subtitles:
+  - season: 1165
+    items:
+    - path: '%E3%82%A2%E3%83%95%E3%83%AD%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4.S01E01.Number.Two.WEBRip.Netflix.ja.srt'
+      episode: 1
+    - path: '%E3%82%A2%E3%83%95%E3%83%AD%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4.S01E02.OKIKU.WEBRip.Netflix.ja.srt'
+      episode: 2
+    - path: '%E3%82%A2%E3%83%95%E3%83%AD%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4.S01E03.THE.EMPTY.SEVEN.CLAN.WEBRip.Netflix.ja.srt'
+      episode: 3
+    - path: '%E3%82%A2%E3%83%95%E3%83%AD%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4.S01E04.KUMA.WEBRip.Netflix.ja.srt'
+      episode: 4
+    - path: '%E3%82%A2%E3%83%95%E3%83%AD%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4.S01E05.JUSTICE.WEBRip.Netflix.ja.srt'
+      episode: 5
