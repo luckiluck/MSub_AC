@@ -1,0 +1,29 @@
+msubtitles:
+- source: https://raw.githubusercontent.com/luckiluck/MSub_AC/main/Japanese_Subtitles/Akuma%20no%20Riddle/
+  subtitles:
+  - season: 7844
+    items:
+    - path: Akuma%20no%20Riddle%20-%20E01%20-%20%5BTV%5D.srt
+      episode: 1
+    - path: Akuma%20no%20Riddle%20-%20E02%20-%20%5BTV%5D.srt
+      episode: 2
+    - path: Akuma%20no%20Riddle%20-%20E03%20-%20%5BTV%5D.srt
+      episode: 3
+    - path: Akuma%20no%20Riddle%20-%20E04%20-%20%5BTV%5D.srt
+      episode: 4
+    - path: Akuma%20no%20Riddle%20-%20E05%20-%20%5BTV%5D.srt
+      episode: 5
+    - path: Akuma%20no%20Riddle%20-%20E06%20-%20%5BTV%5D.srt
+      episode: 6
+    - path: Akuma%20no%20Riddle%20-%20E07%20-%20%5BTV%5D.srt
+      episode: 7
+    - path: Akuma%20no%20Riddle%20-%20E08%20-%20%5BTV%5D.srt
+      episode: 8
+    - path: Akuma%20no%20Riddle%20-%20E09%20-%20%5BTV%5D.srt
+      episode: 9
+    - path: Akuma%20no%20Riddle%20-%20E10%20-%20%5BTV%5D.srt
+      episode: 10
+    - path: Akuma%20no%20Riddle%20-%20E11%20-%20%5BTV%5D.srt
+      episode: 11
+    - path: Akuma%20no%20Riddle%20-%20E12%20-%20%5BTV%5D.srt
+      episode: 12
