@@ -1,0 +1,7 @@
+msubtitles:
+- source: https://raw.githubusercontent.com/luckiluck/MSub_AC/main/Japanese_Subtitles/Charlotte%20-%20Tsuyoimono-tachi/
+  subtitles:
+  - season: 11365
+    items:
+    - path: Charlotte%20Special%20Episode%20-%20The%20Strong%20Ones.srt
+      episode: 1
