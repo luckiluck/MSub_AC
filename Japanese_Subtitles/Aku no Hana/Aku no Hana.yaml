@@ -1,0 +1,31 @@
+msubtitles:
+- source: https://raw.githubusercontent.com/luckiluck/MSub_AC/main/Japanese_Subtitles/Aku%20no%20Hana/
+  subtitles:
+  - season: 7387
+    items:
+    - path: '%E6%83%A1%E3%81%AE%E8%8F%AF.E01.Bandai.ja.srt'
+      episode: 1
+    - path: '%E6%83%A1%E3%81%AE%E8%8F%AF.E02.Bandai.ja.srt'
+      episode: 2
+    - path: '%E6%83%A1%E3%81%AE%E8%8F%AF.E03.Bandai.ja.srt'
+      episode: 3
+    - path: '%E6%83%A1%E3%81%AE%E8%8F%AF.E04.Bandai.ja.srt'
+      episode: 4
+    - path: '%E6%83%A1%E3%81%AE%E8%8F%AF.E05.Bandai.ja.srt'
+      episode: 5
+    - path: '%E6%83%A1%E3%81%AE%E8%8F%AF.E06.Bandai.ja.srt'
+      episode: 6
+    - path: '%E6%83%A1%E3%81%AE%E8%8F%AF.E07.Bandai.ja.srt'
+      episode: 7
+    - path: '%E6%83%A1%E3%81%AE%E8%8F%AF.E08.Bandai.ja.srt'
+      episode: 8
+    - path: '%E6%83%A1%E3%81%AE%E8%8F%AF.E09.Bandai.ja.srt'
+      episode: 9
+    - path: '%E6%83%A1%E3%81%AE%E8%8F%AF.E10.Bandai.ja.srt'
+      episode: 10
+    - path: '%E6%83%A1%E3%81%AE%E8%8F%AF.E11.Bandai.ja.srt'
+      episode: 11
+    - path: '%E6%83%A1%E3%81%AE%E8%8F%AF.E12.Bandai.ja.srt'
+      episode: 12
+    - path: '%E6%83%A1%E3%81%AE%E8%8F%AF.E13.Bandai.ja.srt'
+      episode: 13
