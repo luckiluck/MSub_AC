@@ -1,0 +1,15 @@
+msubtitles:
+- source: https://raw.githubusercontent.com/luckiluck/MSub_AC/main/Japanese_Subtitles/BLACK%20LAGOON%20-%20Roberta%27s%20Blood%20Trail/
+  subtitles:
+  - season: 3841
+    items:
+    - path: Black%20Lagoon.S03E01.WEBRip.Netflix.ja%5Bcc%5D.srt
+      episode: 1
+    - path: Black%20Lagoon.S03E02.WEBRip.Netflix.ja%5Bcc%5D.srt
+      episode: 2
+    - path: Black%20Lagoon.S03E03.WEBRip.Netflix.ja%5Bcc%5D.srt
+      episode: 3
+    - path: Black%20Lagoon.S03E04.WEBRip.Netflix.ja%5Bcc%5D.srt
+      episode: 4
+    - path: Black%20Lagoon.S03E05.WEBRip.Netflix.ja%5Bcc%5D.srt
+      episode: 5
