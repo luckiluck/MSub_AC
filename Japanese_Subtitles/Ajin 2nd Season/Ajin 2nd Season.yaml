@@ -1,0 +1,31 @@
+msubtitles:
+- source: https://raw.githubusercontent.com/luckiluck/MSub_AC/main/Japanese_Subtitles/Ajin%202nd%20Season/
+  subtitles:
+  - season: 12115
+    items:
+    - path: '%5BKamigami%5D%20Ajin%20S2%20-%2001%20%5B1080p%20x265%20Ma10p%20AAC%20Sub%28Chs%2CCht%2CJap%29%5D.srt'
+      episode: 1
+    - path: '%E4%BA%9C%E4%BA%BA.S02E02.%E3%81%A9%E3%81%84%E3%81%A4%E3%82%82%E3%81%93%E3%81%84%E3%81%A4%E3%82%82%E3%83%90%E3%82%AB%E3%81%B0%E3%81%A3%E3%81%8B%E3%82%8A%E3%81%A0.WEBRip.Netflix.ja%5Bcc%5D.srt'
+      episode: 2
+    - path: '%E4%BA%9C%E4%BA%BA.S02E03.%E4%BF%BA%E3%81%AF%E3%81%84%E3%81%A4%E3%81%A0%E3%81%A3%E3%81%A6%E6%80%96%E3%81%84.WEBRip.Netflix.ja%5Bcc%5D.srt'
+      episode: 3
+    - path: '%E4%BA%9C%E4%BA%BA.S02E04.%E5%8F%8D%E5%90%90%E3%81%8C%E5%87%BA%E3%81%BE%E3%81%99%E3%81%AD.WEBRip.Netflix.ja%5Bcc%5D.srt'
+      episode: 4
+    - path: '%E4%BA%9C%E4%BA%BA.S02E05.%E3%82%AF%E3%83%AD%E3%81%A1%E3%82%83%E3%82%93%E3%80%81%E3%81%8A%E9%A1%98%E3%81%84.WEBRip.Netflix.ja%5Bcc%5D.srt'
+      episode: 5
+    - path: '%E4%BA%9C%E4%BA%BA.S02E06.%E9%A3%BC%E3%81%84%E7%8A%AC%E3%81%AF%E5%A4%A7%E5%A4%89%E3%81%A0%E3%81%AA.WEBRip.Netflix.ja%5Bcc%5D.srt'
+      episode: 6
+    - path: '%E4%BA%9C%E4%BA%BA.S02E07.%E3%82%AF%E3%83%AD%E3%81%A1%E3%82%83%E3%82%93%E3%80%81%E3%82%82%E3%81%86%E4%B8%80%E5%BA%A6%E3%81%A0%E3%81%91.WEBRip.Netflix.ja%5Bcc%5D.srt'
+      episode: 7
+    - path: '%E4%BA%9C%E4%BA%BA.S02E08.%E3%81%93%E3%81%AE%E5%9B%BD%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8%E5%A4%A7%E5%A4%89%E3%81%AA%E3%81%93%E3%81%A8%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%8B%E3%82%89.WEBRip.Netflix.ja%5Bcc%5D.srt'
+      episode: 8
+    - path: '%E4%BA%9C%E4%BA%BA.S02E09.%E9%82%AA%E9%AD%94%E3%81%97%E3%81%A6%E3%82%8B%E3%81%AE%E3%81%AF%E3%81%82%E3%82%93%E3%81%9F%E3%81%AE%E6%96%B9%E3%81%A0%E3%82%8D.WEBRip.Netflix.ja%5Bcc%5D.srt'
+      episode: 9
+    - path: '%E4%BA%9C%E4%BA%BA.S02E10.%E5%83%95%E3%81%AF%E3%82%84%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%82%88.WEBRip.Netflix.ja%5Bcc%5D.srt'
+      episode: 10
+    - path: '%E4%BA%9C%E4%BA%BA.S02E11.%E3%81%93%E3%82%8C%E3%81%98%E3%82%83%E3%83%9B%E3%83%B3%E3%83%88%E3%81%AB%E6%88%A6%E4%BA%89%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%81%99%E3%81%8B.WEBRip.Netflix.ja%5Bcc%5D.srt'
+      episode: 11
+    - path: '%E4%BA%9C%E4%BA%BA.S02E12.%E3%81%A7%E3%82%82%E3%81%BE%E3%81%82%E3%80%81%E9%9D%A2%E7%99%BD%E3%81%9D%E3%81%86%E3%81%A0%E3%81%8B%E3%82%89%E3%81%84%E3%81%84%E3%81%91%E3%81%A9%E3%81%AD.WEBRip.Netflix.ja%5Bcc%5D.srt'
+      episode: 12
+    - path: '%E4%BA%9C%E4%BA%BA.S02E13.%E5%83%95%E3%82%82%E7%B4%84%E6%9D%9F%E3%81%97%E3%81%BE%E3%81%99%E3%82%88%E3%80%81%E4%BD%90%E8%97%A4%E3%81%95%E3%82%93.WEBRip.Netflix.ja%5Bcc%5D.srt'
+      episode: 13
