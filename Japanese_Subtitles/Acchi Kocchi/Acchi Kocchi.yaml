@@ -1,0 +1,29 @@
+msubtitles:
+- source: https://raw.githubusercontent.com/luckiluck/MSub_AC/main/Japanese_Subtitles/Acchi%20Kocchi/
+  subtitles:
+  - season: 6701
+    items:
+    - path: '%5B%E9%AB%98%E5%8E%8B1080p%5D%20Acchi%20Kocchi%20-%2001%20%28BD%20X264%20AAC%20Hi10P%29.jp.srt'
+      episode: 1
+    - path: '%5B%E9%AB%98%E5%8E%8B1080p%5D%20Acchi%20Kocchi%20-%2002%20%28BD%20X264%20AAC%20Hi10P%29.jp.srt'
+      episode: 2
+    - path: '%5B%E9%AB%98%E5%8E%8B1080p%5D%20Acchi%20Kocchi%20-%2003%20%28BD%20X264%20AAC%20Hi10P%29.jp.srt'
+      episode: 3
+    - path: '%5B%E9%AB%98%E5%8E%8B1080p%5D%20Acchi%20Kocchi%20-%2004%20%28BD%20X264%20AAC%20Hi10P%29.jp.srt'
+      episode: 4
+    - path: '%5B%E9%AB%98%E5%8E%8B1080p%5D%20Acchi%20Kocchi%20-%2005%20%28BD%20X264%20AAC%20Hi10P%29.jp.srt'
+      episode: 5
+    - path: '%5B%E9%AB%98%E5%8E%8B1080p%5D%20Acchi%20Kocchi%20-%2006%20%28BD%20X264%20AAC%20Hi10P%29.jp.srt'
+      episode: 6
+    - path: '%5B%E9%AB%98%E5%8E%8B1080p%5D%20Acchi%20Kocchi%20-%2007%20%28BD%20X264%20AAC%20Hi10P%29.jp.srt'
+      episode: 7
+    - path: '%5B%E9%AB%98%E5%8E%8B1080p%5D%20Acchi%20Kocchi%20-%2008%20%28BD%20X264%20AAC%20Hi10P%29.jp.srt'
+      episode: 8
+    - path: '%5B%E9%AB%98%E5%8E%8B1080p%5D%20Acchi%20Kocchi%20-%2009%20%28BD%20X264%20AAC%20Hi10P%29.jp.srt'
+      episode: 9
+    - path: '%5B%E9%AB%98%E5%8E%8B1080p%5D%20Acchi%20Kocchi%20-%2010%20%28BD%20X264%20AAC%20Hi10P%29.jp.srt'
+      episode: 10
+    - path: '%5B%E9%AB%98%E5%8E%8B1080p%5D%20Acchi%20Kocchi%20-%2011%20%28BD%20X264%20AAC%20Hi10P%29.jp.srt'
+      episode: 11
+    - path: '%5B%E9%AB%98%E5%8E%8B1080p%5D%20Acchi%20Kocchi%20-%2012%20%28BD%20X264%20AAC%20Hi10P%29.jp.srt'
+      episode: 12
