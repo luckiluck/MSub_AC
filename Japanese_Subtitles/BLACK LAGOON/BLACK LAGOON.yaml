@@ -1,0 +1,29 @@
+msubtitles:
+- source: https://raw.githubusercontent.com/luckiluck/MSub_AC/main/Japanese_Subtitles/BLACK%20LAGOON/
+  subtitles:
+  - season: 789
+    items:
+    - path: BLACK%20LAGOON.S01E01.WEBRip.Netflix.ja%5Bcc%5D.srt
+      episode: 1
+    - path: BLACK%20LAGOON.S01E02.WEBRip.Netflix.ja%5Bcc%5D.srt
+      episode: 2
+    - path: BLACK%20LAGOON.S01E03.WEBRip.Netflix.ja%5Bcc%5D.srt
+      episode: 3
+    - path: BLACK%20LAGOON.S01E04.WEBRip.Netflix.ja%5Bcc%5D.srt
+      episode: 4
+    - path: BLACK%20LAGOON.S01E05.WEBRip.Netflix.ja%5Bcc%5D.srt
+      episode: 5
+    - path: BLACK%20LAGOON.S01E06.WEBRip.Netflix.ja%5Bcc%5D.srt
+      episode: 6
+    - path: BLACK%20LAGOON.S01E07.WEBRip.Netflix.ja%5Bcc%5D.srt
+      episode: 7
+    - path: BLACK%20LAGOON.S01E08.WEBRip.Netflix.ja%5Bcc%5D.srt
+      episode: 8
+    - path: BLACK%20LAGOON.S01E09.WEBRip.Netflix.ja%5Bcc%5D.srt
+      episode: 9
+    - path: BLACK%20LAGOON.S01E10.WEBRip.Netflix.ja%5Bcc%5D.srt
+      episode: 10
+    - path: BLACK%20LAGOON.S01E11.WEBRip.Netflix.ja%5Bcc%5D.srt
+      episode: 11
+    - path: BLACK%20LAGOON.S01E12.WEBRip.Netflix.ja%5Bcc%5D.srt
+      episode: 12
