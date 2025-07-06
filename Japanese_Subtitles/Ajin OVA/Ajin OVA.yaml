@@ -1,0 +1,9 @@
+msubtitles:
+- source: https://raw.githubusercontent.com/luckiluck/MSub_AC/main/Japanese_Subtitles/Ajin%20OVA/
+  subtitles:
+  - season: 11615
+    items:
+    - path: Ajin%20OAD%201.JA.srt
+      episode: 1
+    - path: Ajin%20OAD%202.JA.srt
+      episode: 2
